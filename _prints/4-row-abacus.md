@@ -1,15 +1,14 @@
 ---
-title: "4 Row Abacus"
-sku: "PRT-001"
-description: "Compact 4-row abacus for basic calculations"
-categories: 
-  - accessibility
+title: 4 Row Abacus
+sku: "PRT-00001-VIS"
+description: Compact 4-row abacus for basic calculations
+categories:
   - visual impairments
-  - math
-tags: 
+tags:
+  - abacus
+  - accessibility
   - braille
   - math
-  - abacus
 header:
   teaser: /assets/images/prints/4RowAbacus.jpeg
 stl: /assets/files/LINK TO 3D PRINT FILE(s).stl

@@ -1,13 +1,10 @@
 ---
 title: "Crochet Cable Hooks"
-sku: "PRT-010"
-description: "Adaptive hooks for crocheting with improved grip"
-categories:
-  - accessibility
-  - crafts
-  - visual impairments
+sku: "PRT-00010-MISC"
+description: "Crochet hooks for able knitting"
+categories: 
+  - miscellaneous
 tags:
-  - adaptive-tools
   - crafts
   - daily-living
 header:

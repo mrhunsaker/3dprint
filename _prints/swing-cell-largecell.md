@@ -1,21 +1,19 @@
 ---
-title: "Multiplication Frame"
-sku: "PRT-024"
-description: "Mathematical frame for practicing multiplication"
+title: "Swing Cell"
+sku: "PRT-00040-VIS"
+description: "Interactive swing cell mechanism for tactile learning"
 categories:
-  - accessibility
-  - math
   - visual impairments
 tags:
-  - braille
-  - math
   - education
+  - toys
+  - learning
 header:
-  teaser: /assets/images/prints/MultiplicationFrame.jpeg
+  teaser: /assets/images/prints/Swing-Cell.jpeg
 stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 ---
 
-![Multiplication Frame](/assets/images/prints/MultiplicationFrame.jpeg){: .full style="max-width: 600px;"}
+![Swing Cell - View 1](/assets/images/prints/Swing-Cell.jpeg){: .full style="max-width: 600px;"}
 
 Description of item
 

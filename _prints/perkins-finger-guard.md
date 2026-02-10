@@ -1,10 +1,8 @@
 ---
 title: "Perkins Finger Guard"
-sku: "PRT-031"
+sku: "PRT-00032-OT-VIS"
 description: "Finger guard for Perkins Brailler to improve typing accuracy"
 categories:
-  - accessibility
-  - braille
   - occupational therapy
   - visual impairments
 tags:

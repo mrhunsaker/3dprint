@@ -1,11 +1,8 @@
 ---
 title: "Heart Model"
-sku: "PRT-017"
+sku: "PRT-00017-VIS"
 description: "Tactile 3D model of human heart for anatomy education"
 categories:
-  - accessibility
-  - science
-  - education
   - visual impairments
 tags:
   - anatomy

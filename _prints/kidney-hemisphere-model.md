@@ -1,11 +1,8 @@
 ---
 title: "Kidney Hemisphere Model"
-sku: "PRT-020"
+sku: "PRT-00020-VIS"
 description: "Tactile 3D hemisphere model of kidney structure"
 categories:
-  - accessibility
-  - science
-  - education
   - visual impairments
 tags:
   - anatomy

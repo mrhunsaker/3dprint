@@ -1,10 +1,8 @@
 ---
 title: "Open-Tactile-Abacus"
-sku: "PRT-026"
-description: "Light Swuitch Inspired Soroban Abacus for the Blind"
+sku: "PRT-00002-VIS"
+description: "Light Switch Inspired Soroban Abacus for the Blind"
 categories:
-  - accessibility
-  - math
   - visual impairments
 tags:
   - braille

@@ -1,12 +1,9 @@
 ---
 title: "Pen Sphere"
-sku: "PRT-028"
+sku: "PRT-00028-OT"
 description: "Spherical pen grip aid for improved writing control"
 categories:
-  - accessibility
-  - writing
   - occupational therapy
-  - visual impairments
 tags:
   - adaptive-tools
   - writing

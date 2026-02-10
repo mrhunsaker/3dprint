@@ -1,10 +1,8 @@
 ---
 title: "Braille Clock"
-sku: "PRT-005"
+sku: "PRT-005-VIS"
 description: "Tactile clock for telling time by touch"
 categories:
-  - accessibility
-  - tools
   - visual impairments
 tags:
   - braille

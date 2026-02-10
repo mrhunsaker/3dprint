@@ -1,11 +1,8 @@
 ---
 title: "Periodic Table"
-sku: "PRT-030"
+sku: "PRT-00031-VIS"
 description: "Tactile periodic table of elements for chemistry education"
 categories:
-  - accessibility
-  - science
-  - education
   - visual impairments
 tags:
   - braille

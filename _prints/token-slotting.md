@@ -1,12 +1,9 @@
 ---
 title: "Token Slotting"
-sku: "PRT-043"
+sku: "PRT-00047-OT"
 description: "Token sorting and slotting activity for fine motor skills"
 categories:
-  - accessibility
-  - education
   - occupational therapy
-  - visual impairments
 tags:
   - education
   - learning

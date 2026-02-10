@@ -1,12 +1,9 @@
 ---
 title: "Toothpaste Squeezers"
-sku: "PRT-044"
+sku: "PRT-00048-OT"
 description: "Adaptive tool for easier toothpaste dispensing"
 categories:
-  - accessibility
-  - tools
   - occupational therapy
-  - visual impairments
 tags:
   - adaptive-tools
   - daily-living

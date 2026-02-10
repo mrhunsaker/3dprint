@@ -1,11 +1,8 @@
 ---
 title: "Tactile Matching"
-sku: "PRT-040"
+sku: "PRT-00043-OT-VIS"
 description: "Tactile matching game for learning and memory activities"
 categories:
-  - accessibility
-  - games
-  - education
   - occupational therapy
   - visual impairments
 tags:

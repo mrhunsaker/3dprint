@@ -1,10 +1,8 @@
 ---
 title: "Braille Legos"
-sku: "PRT-007"
+sku: "PRT-00007-VIS"
 description: "Braille-compatible building blocks for creative play"
 categories:
-  - accessibility
-  - toys
   - visual impairments
 tags:
   - braille

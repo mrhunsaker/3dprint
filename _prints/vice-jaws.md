@@ -1,11 +1,9 @@
 ---
 title: "Vice Jaws"
-sku: "PRT-046"
+sku: "PRT-00051-MISC"
 description: "Adaptive vice jaw attachments for improved grip and control"
-categories:
-  - accessibility
-  - tools
-  - visual impairments
+categories: 
+  - miscellaneous
 tags:
   - adaptive-tools
   - workshop

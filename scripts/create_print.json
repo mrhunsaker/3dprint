@@ -1,0 +1,75 @@
+{
+  "name": "create_print",
+  "description": "Create a new print entry from a staged project folder.",
+  "inputs": {
+    "project_name": {
+      "type": "string",
+      "description": "Folder under Staging that contains Template.md and images."
+    }
+  },
+  "requirements": {
+    "staging_root": "Staging",
+    "template_file": "template.md",
+    "prints_root": "_prints",
+    "images_root": "assets/images/prints",
+    "inventory_file": "Inventory/inventory.json"
+  },
+  "allowed_categories": [
+    "visual impairments",
+    "occupational therapy",
+    "physical therapy",
+    "speech language pathology",
+    "orientation and mobility",
+    "miscellaneous"
+  ],
+  "category_sku_suffixes": {
+    "visual impairments": "-VIS",
+    "occupational therapy": "-OT",
+    "physical therapy": "-PT",
+    "speech language pathology": "-SLP",
+    "orientation and mobility": "-OM",
+    "miscellaneous": "-MISC"
+  },
+  "category_rules": {
+    "miscellaneous": "Can only be used if no other categories are applied. If miscellaneous is selected, it must be the only category."
+  },
+  "sku_format": {
+    "description": "SKU format is PRT-XXXXX-SUFFIXES where XXXXX is 5-digit number",
+    "example": "PRT-00052-OT-VIS for occupational therapy + visual impairments"
+  },
+  "placeholders": [
+    "$Template",
+    "$SKU",
+    "$Short_Description",
+    "$Photo",
+    "$Photo_Title",
+    "$Long_Description"
+  ],
+  "steps": [
+    "Read next_prt_number from Inventory/inventory.json",
+    "Open Staging/<project_name>/template.md",
+    "Collect metadata: title, short description, long description, topic/context, photo file(s), photo title(s).",
+    "Determine applicable categories based on topic/context. Multiple categories allowed (max 5). Only use allowed categories. IMPORTANT: miscellaneous can only be used if no other categories apply.",
+    "Generate SKU: PRT-XXXXX-SUFFIXES where XXXXX is next_prt_number (zero-padded to 5 digits), and SUFFIXES are category codes in order (e.g., PRT-00052-OT-VIS)",
+    "Generate tags based on topic and product type (e.g., braille, tactile, adaptive, mobility, therapy, etc.).",
+    "If multiple images exist, repeat the image markdown line once per image",
+    "Replace placeholders in the file with provided values, populate categories and tags in frontmatter.",
+    "Rename the file to a slugified filename (lowercase with hyphens) and move it to _prints/<slug>.md.",
+    "Move all image files from Staging/<project_name>/ to assets/images/prints/.",
+    "Update Inventory/inventory.json with new project entry and increment next_prt_number.",
+    "Ensure header teaser uses the first image file path.",
+    "Clean up staging folder (remove template.md and images)."
+  ],
+  "output": {
+    "print_markdown_path": "_prints/<slug>.md",
+    "images_copied_to": "assets/images/prints/",
+    "inventory_updated": "Inventory/inventory.json",
+    "frontmatter_fields": {
+      "title": "$Template",
+      "sku": "PRT-XXXXX-SUFFIXES",
+      "categories": "[list of applicable categories]",
+      "tags": "[list of generated tags]",
+      "description": "$Short_Description"
+    }
+  }
+}

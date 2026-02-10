@@ -1,10 +1,8 @@
 ---
 title: "Tactile Tiles"
-sku: "PRT-041"
+sku: "PRT-00044-OT-VIS"
 description: "Set of tactile tiles for pattern recognition and learning"
 categories:
-  - accessibility
-  - education
   - occupational therapy
   - visual impairments
 tags:

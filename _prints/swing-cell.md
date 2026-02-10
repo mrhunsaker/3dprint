@@ -1,21 +1,17 @@
 ---
 title: "Swing Cell"
-sku: "PRT-037"
+sku: "PRT-00040-VIS"
 description: "Interactive swing cell mechanism for tactile learning"
 categories:
-  - accessibility
-  - education
   - visual impairments
 tags:
   - education
   - toys
   - learning
 header:
-  teaser: /assets/images/prints/Swing-Cell.jpeg
+  teaser: /assets/images/prints/SwingCell2.jpeg
 stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 ---
-
-![Swing Cell - View 1](/assets/images/prints/Swing-Cell.jpeg){: .full style="max-width: 600px;"}
 
 ![Swing Cell - View 2](/assets/images/prints/SwingCell2.jpeg){: .full style="max-width: 600px;"}
 

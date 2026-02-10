@@ -1,10 +1,8 @@
 ---
 title: "Pocket Abacus"
-sku: "PRT-034"
+sku: "PRT-00035-VIS"
 description: "Portable pocket-sized abacus for on-the-go calculations"
 categories:
-  - accessibility
-  - math
   - visual impairments
 tags:
   - braille

@@ -1,11 +1,8 @@
 ---
 title: "Urinary System Model"
-sku: "PRT-045"
+sku: "PRT-00050-VIS"
 description: "Tactile 3D model of the urinary system for anatomy education"
 categories:
-  - accessibility
-  - science
-  - education
   - visual impairments
 tags:
   - anatomy

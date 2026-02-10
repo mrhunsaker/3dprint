@@ -1,11 +1,10 @@
 ---
 title: "Tactile Connections Tile"
-sku: "PRT-038"
+sku: "PRT-00041-VIS-SLP"
 description: "Interactive tile for learning connections and patterns"
 categories:
-  - accessibility
-  - education
   - visual impairments
+  - speech language pathology
 tags:
   - braille
   - education

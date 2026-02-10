@@ -1,11 +1,9 @@
 ---
 title: "Laptop Stand"
-sku: "PRT-022"
+sku: "PRT-00023-MISC"
 description: "Ergonomic stand for laptop positioning"
 categories:
-  - accessibility
-  - tools
-  - visual impairments
+  - miscellaneous
 tags:
   - adaptive-tools
   - ergonomics

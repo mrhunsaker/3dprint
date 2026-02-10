@@ -1,12 +1,9 @@
 ---
 title: "Slotting Box"
-sku: "PRT-036"
+sku: "PRT-00038-OT"
 description: "Sorting and slotting box for tactile learning activities"
 categories:
-  - accessibility
-  - education
   - occupational therapy
-  - visual impairments
 tags:
   - education
   - adaptive-tools

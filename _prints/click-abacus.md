@@ -1,10 +1,8 @@
 ---
 title: "Click Abacus"
-sku: "PRT-009"
+sku: "PRT-00009-VIS"
 description: "Tactile abacus with audible clicking feedback"
 categories:
-  - accessibility
-  - math
   - visual impairments
 tags:
   - braille

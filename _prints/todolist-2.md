@@ -1,23 +1,22 @@
 ---
-title: "Add/Subtract Frame"
-sku: "PRT-002"
-description: "Mathematical frame for addition and subtraction practice"
+title: TODO List 2
+sku: "PRT-00046-OT-SLP"
+description: Enhanced task tracking and management system
 categories:
-  - accessibility
-  - math
-  - visual impairments
+  - occupational therapy
+  - speech language pathology
 tags:
-  - braille
-  - math
-  - education
+  - organization
+  - daily-living
+  - adaptive-tools
+  - planning
 header:
-  teaser: /assets/images/prints/AddSubtractFrame.jpeg
-stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
+  teaser: /assets/images/prints/IMG_0061.jpeg
 ---
 
-![Add/Subtract Frame](/assets/images/prints/AddSubtractFrame.jpeg){: .full style="max-width: 600px;"}
+![IMG_0061.jpeg_Title](/assets/images/prints/IMG_0061.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+An improved task management system with better tactile organization and labeling for daily task planning.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

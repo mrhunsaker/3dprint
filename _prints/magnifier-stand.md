@@ -1,10 +1,8 @@
 ---
 title: "Magnifier Stand"
-sku: "PRT-023"
+sku: "PRT-00024-VIS"
 description: "Adjustable stand for magnifying glass or optical aids"
 categories:
-  - accessibility
-  - tools
   - visual impairments
 tags:
   - adaptive-tools

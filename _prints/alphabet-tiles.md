@@ -1,11 +1,9 @@
 ---
 title: "Alphabet Tiles"
-sku: "PRT-003"
+sku: "PRT-003-VIS"
 description: "Tactile alphabet tiles for learning and literacy"
 categories:
-  - accessibility
   - visual impairments
-  - education
 tags:
   - braille
   - education

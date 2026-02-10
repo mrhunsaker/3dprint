@@ -1,12 +1,9 @@
 ---
 title: "Key Turn Helper"
-sku: "PRT-019"
+sku: "PRT-00019-OT"
 description: "Adaptive tool for easier key turning"
 categories:
-  - accessibility
-  - tools
   - occupational therapy
-  - visual impairments
 tags:
   - adaptive-tools
   - daily-living

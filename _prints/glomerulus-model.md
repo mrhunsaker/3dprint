@@ -1,11 +1,8 @@
 ---
 title: "Glomerulus Model"
-sku: "PRT-013"
+sku: "PRT-00013-VIS"
 description: "Tactile 3D model of kidney glomerulus for anatomy education"
 categories:
-  - accessibility
-  - science
-  - education
   - visual impairments
 tags:
   - anatomy

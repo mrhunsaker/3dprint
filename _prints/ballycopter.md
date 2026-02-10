@@ -1,12 +1,9 @@
 ---
 title: "BallyCopter"
-sku: "PRT-004"
+sku: "PRT-004-VIS"
 description: "Interactive helicopter toy with tactile features"
 categories:
-  - accessibility
-  - toys
   - visual impairments
-  - technology
 tags:
   - braille
   - toys

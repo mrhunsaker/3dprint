@@ -1,11 +1,8 @@
 ---
 title: "Kidney Tactile Diagram"
-sku: "PRT-021"
+sku: "PRT-00021-VIS"
 description: "Tactile diagram of kidney anatomy with raised features"
 categories:
-  - accessibility
-  - science
-  - education
   - visual impairments
 tags:
   - anatomy

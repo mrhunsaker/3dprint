@@ -1,10 +1,8 @@
 ---
 title: "Screen Reader Screen"
-sku: "PRT-035"
+sku: "PRT-00037-VIS"
 description: "Tactile screen reader display with multiple configurations"
 categories:
-  - accessibility
-  - technology
   - visual impairments
 tags:
   - braille

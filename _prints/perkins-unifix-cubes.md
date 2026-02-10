@@ -1,11 +1,8 @@
 ---
 title: "Perkins Unifix Cubes"
-sku: "PRT-032"
+sku: "PRT-00033-OT-VIS"
 description: "Braille-labeled unifix cubes for math education"
 categories:
-  - accessibility
-  - math
-  - education
   - occupational therapy
   - visual impairments
 tags:

@@ -1,10 +1,8 @@
 ---
 title: "Grip Strength Trainer"
-sku: "PRT-016"
+sku: "PRT-00016-OT-VIS"
 description: "Hand grip strengthening tool with multiple resistance levels"
 categories:
-  - accessibility
-  - therapy
   - occupational therapy
   - visual impairments
 tags:

@@ -1,24 +1,21 @@
 ---
-title: "Time Frame"
-sku: "PRT-042"
-description: "Tactile time-telling frame for learning clock concepts"
+title: Laptop Stand 2
+sku: "PRT-00022-MISC"
+description: Ergonomic adjustable laptop stand for enhanced viewing
 categories:
-  - accessibility
-  - education
-  - visual impairments
+  - miscellaneous
 tags:
-  - braille
-  - education
-  - time
-  - learning
+  - ergonomics
+  - daily-living
+  - low-vision
+  - adaptive-tools
 header:
-  teaser: /assets/images/prints/TimeFrame.jpeg
-stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
+  teaser: /assets/images/prints/Laptop-Stand-2.jpeg
 ---
 
-![Time Frame](/assets/images/prints/TimeFrame.jpeg){: .full style="max-width: 600px;"}
+![Laptop-Stand-2.jpeg_Title](/assets/images/prints/Laptop-Stand-2.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+An improved ergonomic laptop stand with adjustable angles for comfortable laptop positioning and better accessibility for extended use.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

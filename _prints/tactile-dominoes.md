@@ -1,10 +1,8 @@
 ---
 title: "Tactile Dominoes"
-sku: "PRT-039"
+sku: "PRT-00042-OT-VIS"
 description: "Braille dominoes for accessible gaming"
 categories:
-  - accessibility
-  - games
   - occupational therapy
   - visual impairments
 tags:

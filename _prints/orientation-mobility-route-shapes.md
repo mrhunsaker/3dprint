@@ -1,23 +1,22 @@
 ---
-title: "Division Frame"
-sku: "PRT-011"
-description: "Mathematical frame for practicing division"
+title: Orientation and Mobility Route Shapes
+sku: "PRT-00027-OM-VIS"
+description: Tactile route shape models for O&M instruction
 categories:
-  - accessibility
-  - math
+  - orientation and mobility
   - visual impairments
 tags:
-  - braille
-  - math
+  - orientation-mobility
+  - navigation
+  - tactile
   - education
 header:
-  teaser: /assets/images/prints/DivisionFrame.jpeg
-stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
+  teaser: /assets/images/prints/Orientation-Mobility-Route-Shapes.jpeg
 ---
 
-![Division Frame](/assets/images/prints/DivisionFrame.jpeg){: .full style="max-width: 600px;"}
+![Orientation-Mobility-Route-Shapes.jpeg_Title](/assets/images/prints/Orientation-Mobility-Route-Shapes.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+Educational tactile models of various route shapes and patterns for orientation and mobility instruction. Helps students understand different navigation routes through touch.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

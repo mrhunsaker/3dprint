@@ -1,23 +1,21 @@
 ---
-title: "Braille Number Storage"
-sku: "PRT-008"
-description: "Storage container with braille numbering system"
+title: Traditional Soroban
+sku: "PRT-00049-VIS"
+description: Japanese abacus for mathematical calculations
 categories:
-  - accessibility
-  - organization
   - visual impairments
 tags:
   - braille
-  - storage
-  - daily-living
+  - math
+  - abacus
+  - arithmetic
 header:
-  teaser: /assets/images/prints/BrailleNumberStorage.jpeg
-stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
+  teaser: /assets/images/prints/IMG_0044.jpeg
 ---
 
-![Braille Number Storage](/assets/images/prints/BrailleNumberStorage.jpeg){: .full style="max-width: 600px;"}
+![IMG_0044.jpeg_Title](/assets/images/prints/IMG_0044.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A traditional Soroban (Japanese abacus) adapted for tactile learning. Excellent for teaching arithmetic and mathematical concepts through touch.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

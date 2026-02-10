@@ -1,12 +1,9 @@
 ---
 title: "Pen Support"
-sku: "PRT-029"
+sku: "PRT-00029-OT"
 description: "Supportive writing aid for improved pen control"
 categories:
-  - accessibility
-  - writing
   - occupational therapy
-  - visual impairments
 tags:
   - adaptive-tools
   - writing

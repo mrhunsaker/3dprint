@@ -1,12 +1,9 @@
 ---
 title: "Pencil Holder"
-sku: "PRT-027"
+sku: "PRT-00030-OT"
 description: "Accessible pencil holder with tactile organization"
 categories:
-  - accessibility
-  - organization
   - occupational therapy
-  - writing
 tags:
   - adaptive-tools
   - organization

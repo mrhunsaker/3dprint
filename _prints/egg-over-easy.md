@@ -1,10 +1,8 @@
 ---
 title: "Egg Over Easy"
-sku: "PRT-012"
+sku: "PRT-00012-VIS"
 description: "Tactile cooking aid for egg preparation"
 categories:
-  - accessibility
-  - kitchen
   - visual impairments
 tags:
   - adaptive-tools

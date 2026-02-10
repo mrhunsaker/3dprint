@@ -1,10 +1,8 @@
 ---
 title: "Braille Dice"
-sku: "PRT-006"
+sku: "PRT-00006-VIS"
 description: "Tactile dice with braille dots for accessible gaming"
 categories:
-  - accessibility
-  - games
   - visual impairments
 tags:
   - braille

@@ -1,12 +1,9 @@
 ---
 title: "Plug Puller"
-sku: "PRT-033"
+sku: "PRT-00034-OT"
 description: "Adaptive tool for easier electrical plug removal"
 categories:
-  - accessibility
-  - tools
   - occupational therapy
-  - visual impairments
 tags:
   - adaptive-tools
   - daily-living

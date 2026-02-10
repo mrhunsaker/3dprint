@@ -1,11 +1,8 @@
 ---
 title: "Nephron Diagram"
-sku: "PRT-025"
+sku: "PRT-00025-VIS"
 description: "Tactile diagram of kidney nephron structure"
 categories:
-  - accessibility
-  - science
-  - education
   - visual impairments
 tags:
   - anatomy

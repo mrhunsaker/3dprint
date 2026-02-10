@@ -1,11 +1,8 @@
 ---
 title: "Heart Tactile Diagram"
-sku: "PRT-018"
+sku: "PRT-00018-VIS"
 description: "Tactile diagram of heart anatomy with raised features"
 categories:
-  - accessibility
-  - science
-  - education
   - visual impairments
 tags:
   - anatomy
