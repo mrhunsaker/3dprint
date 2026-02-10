@@ -1,0 +1,1 @@
+Place teaser JPEGs here, e.g., phone-stand-teaser.jpg

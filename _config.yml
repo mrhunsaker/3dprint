@@ -1,0 +1,109 @@
+
+# Site
+title: "DSD Related Services 3D Print Catalog"
+description: "Static catalog of ready-to-print 3D models with request workflow"
+email: ryhunsaker@dsdsmail.net
+url: ""
+baseurl: ""
+
+# Theme
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dirt"
+search: true
+search_full_content: true
+lunr:
+    search_within_pages: true
+    search_full_content: true
+# Plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+sass:
+    sass_dir: _sass
+    style: compressed
+# Collections
+collections:
+  prints:
+    output: true
+    permalink: /prints/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: prints
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+  
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+# Include pages
+include: ["_pages"]
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - templates/
+
+author:
+    name: "Michael Ryan Hunsaker, M.Ed., Ph.D."
+    avatar: "/assets/images/bio-photo.jpg"
+    bio: "Behavioral Neuroscientist who became a Teacher for Students with Visual Impairments who loves to teach and write about assistive technology, visual impairments, and accessibility."
+    location: "Utah, USA"
+    links:
+        - label: "Email"
+          icon: "fas fa-fw fa-envelope"
+          url: "mailto:ryhunsaker@dsdmail.net"
+        - label: "Website"
+          icon: "fas fa-fw fa-link"
+          url: "https://tviresources.github.io"
+        - label: "GitHub"
+          icon: "fab fa-fw fa-github"
+          url: "https://github.com/mrhunsaker"
+        - label: "Thingiverse"
+          icon: "fas fa-fw fa-gear"
+          url: "https://www.thingiverse.com/TVI_Resources/designs"
+        - label: "MakerWorld"
+          icon: "fas fa-fw fa-gear"
+          url: "https://makerworld.com/en/@user_657113522"
+
+footer:
+    links:
+        - label: "GitHub"
+          icon: "fab fa-fw fa-github"
+          url: "https://github.com/TVIResources"
+    since: "2025"
