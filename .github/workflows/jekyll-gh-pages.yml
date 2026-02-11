@@ -35,12 +35,16 @@ jobs:
         with:
           ruby-version: "3.3"
           bundler-cache: true
+      - name: Install dependencies
+        run: bundle install --jobs 4 --retry 3
       - name: Build site
         env:
           JEKYLL_ENV: production
-        run: bundle exec jekyll build --source ./ --destination ./_site
+        run: bundle exec jekyll build --source ./ --destination ./_site --trace
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
 
   # Deployment job
   deploy:
