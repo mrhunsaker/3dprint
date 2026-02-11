@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Glomerulus Model](/assets/images/prints/Glomerulus.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A detailed 3D-printed tactile model of the kidney glomerulus — the microscopic capillary cluster where blood filtration begins. This model allows students with visual impairments to explore the intricate structure of the glomerulus through touch, including the afferent and efferent arterioles and Bowman's capsule. An essential hands-on resource for anatomy and biology courses covering the renal system.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

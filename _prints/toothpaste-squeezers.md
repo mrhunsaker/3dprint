@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Toothpaste Squeezers](/assets/images/prints/TothpasteSqueezers.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+An adaptive tool that clips onto a toothpaste tube and slides along its length to dispense toothpaste evenly and with minimal hand effort. Designed for individuals with limited grip strength or dexterity, this device supports independent bathroom routines and daily self-care activities.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

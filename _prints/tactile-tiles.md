@@ -17,7 +17,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Tactile Tiles](/assets/images/prints/TactileTiles.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A set of 3D-printed tiles featuring distinct raised textures and braille labels for tactile discrimination and pattern recognition activities. These tiles support educational goals in both occupational therapy and vision services by helping students develop sensory awareness, matching skills, and braille literacy through hands-on exploration.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

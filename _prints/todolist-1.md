@@ -16,7 +16,7 @@ header:
 
 ![IMG_0062.jpeg_Title](/assets/images/prints/IMG_0062.jpeg){: .full style="max-width: 600px;"}
 
-An organizational tool for managing daily tasks and to-do items with tactile feedback for organization and planning.
+A 3D-printed tactile task management board that helps individuals organize and track daily activities. Featuring movable task markers and labeled slots, this tool supports executive functioning skills such as planning, sequencing, and task completion. Designed for use in occupational therapy and speech language pathology programs focused on building independence in daily routines and self-management.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

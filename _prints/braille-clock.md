@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Braille Clock](/assets/images/prints/BrailleClock2.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A tactile clock face with braille-labeled hour markers and movable hands, designed for teaching time-telling concepts to students who are blind or have visual impairments. The raised hour positions and distinct hand shapes allow learners to read the time by touch, supporting daily living skills instruction and building the independence needed to manage personal schedules.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

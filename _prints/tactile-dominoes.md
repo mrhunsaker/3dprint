@@ -16,7 +16,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Tactile Dominoes](/assets/images/prints/tactileDominoes.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A set of 3D-printed dominoes featuring raised dots and braille number markings for accessible gameplay. These tactile dominoes allow individuals with visual impairments to participate in the classic matching game independently, supporting math skills, turn-taking, and social interaction during recreational activities.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

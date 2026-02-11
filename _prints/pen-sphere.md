@@ -17,7 +17,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Pen Sphere - View 2](/assets/images/prints/PenSphere2.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A spherical pen grip attachment that fits over standard pens and pencils to provide a larger, rounder grip surface. This adaptive writing aid encourages a more natural hand position and reduces the fine motor demand of holding a thin writing instrument, making it ideal for occupational therapy and classroom use.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

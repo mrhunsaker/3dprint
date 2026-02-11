@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Slotting Box](/assets/images/prints/SlottingBox.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A 3D-printed sorting and slotting activity box with shaped openings and matching pieces. This hands-on learning tool helps develop fine motor skills, shape recognition, and problem-solving abilities. Designed for occupational therapy settings to support cognitive and motor skill development through tactile play.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

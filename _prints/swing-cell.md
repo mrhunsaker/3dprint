@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Swing Cell - View 2](/assets/images/prints/SwingCell2.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A tactile braille learning tool with hinged dots that swing into raised or flat positions to form braille characters. This interactive manipulative allows students with visual impairments to physically construct each letter, building muscle memory and reinforcing braille cell structure during literacy instruction.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

@@ -16,7 +16,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Kidney Tactile Diagram](/assets/images/prints/KidneyTactileDiagram.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A flat tactile diagram of the kidney featuring raised lines, textured regions, and braille labels that identify key anatomical structures such as the cortex, medulla, renal pelvis, and ureter. This diagram provides students with visual impairments an accessible way to study renal anatomy in science and health courses.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

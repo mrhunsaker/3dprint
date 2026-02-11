@@ -14,7 +14,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Crochet Cable Hooks](/assets/images/prints/CrochetCableHooks.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+3D-printed cable knitting hooks designed for crochet and cable stitch work. These lightweight, durable hooks provide a comfortable grip and smooth yarn glide, making cable knitting techniques more accessible. A practical tool for crafters looking for custom-sized or replacement hooks that can be printed on demand.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

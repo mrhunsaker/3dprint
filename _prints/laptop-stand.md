@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Laptop Stand](/assets/images/prints/LaptopStand.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A 3D-printed ergonomic laptop stand that raises the screen to a more comfortable viewing height and angle. This stand promotes better posture during extended computer use, reduces neck and shoulder strain, and improves airflow beneath the laptop for cooling.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

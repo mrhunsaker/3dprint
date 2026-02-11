@@ -17,7 +17,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Vice Jaws - View 2](/assets/images/prints/ViceJaws2.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+3D-printed soft jaw inserts designed to fit standard bench vises. These protective jaw covers prevent damage to delicate workpieces while providing a secure grip. Useful in workshop and maker-space settings for holding parts during assembly, sanding, or other fabrication tasks.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

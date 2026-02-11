@@ -16,7 +16,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Heavy Grip Strength Trainer](/assets/images/prints/HeavyGripStrength.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A heavy-resistance grip strength trainer available in two force levels — 35 kg and 50 kg — for advanced hand strengthening and rehabilitation. These 3D-printed devices target users who have progressed beyond lighter resistance and need greater challenge to continue building grip power, hand endurance, and overall upper extremity strength as part of an occupational therapy program.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

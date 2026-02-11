@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Pen Support](/assets/images/prints/PenSupport.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A 3D-printed writing aid that supports proper pen positioning and reduces hand fatigue during writing tasks. This adaptive grip attachment slides onto standard pens and pencils to provide a stable, comfortable hold for individuals with limited hand control or fine motor challenges.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

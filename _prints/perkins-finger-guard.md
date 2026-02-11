@@ -18,7 +18,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Perkins Finger Guard - View 2](/assets/images/prints/PerkinsFingerGuard2.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A 3D-printed finger guard that attaches to the Perkins Brailler to help students develop proper finger placement and key isolation when learning to write braille. By guiding fingers to the correct keys and preventing accidental presses, this tool improves typing accuracy and builds confidence during braille instruction.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

@@ -19,7 +19,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Tactile Matching - View 2](/assets/images/prints/TactileMatching2.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A tactile matching game set featuring pairs of tiles with distinct raised textures and braille markings. Players match tiles by touch, developing tactile discrimination, memory skills, and braille recognition. Suitable for both educational settings and recreational play in occupational therapy and vision services.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

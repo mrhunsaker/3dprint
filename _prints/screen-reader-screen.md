@@ -41,7 +41,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Screen Reader Screen Case](/assets/images/prints/ScreenReaderScreenCase.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A tactile teaching model that replicates the layout and interface of a screen reader display. Featuring multiple configurations and interchangeable components, this tool helps students with visual impairments learn how screen readers organize and present information. The accompanying case provides storage and portability for classroom and individual instruction settings.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

@@ -14,7 +14,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Key Turn Helper](/assets/images/prints/KeyTurnHelper.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+An adaptive device that attaches to a standard key to provide a larger grip surface and increased leverage for turning. This tool is designed for individuals with limited hand strength, dexterity, or grip, making it easier to lock and unlock doors independently as part of daily living activities.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

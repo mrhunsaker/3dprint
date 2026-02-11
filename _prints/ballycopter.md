@@ -17,7 +17,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![BallyCopter - View 2](/assets/images/prints/BallyCopter2.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A 3D-printed tactile character from the Ballyland VoiceOver learning system, designed to help young children who are blind or have low vision learn to use Apple's VoiceOver screen reader through play. The BallyCopter figure gives students a tangible connection to the on-screen character, reinforcing concepts from the app and encouraging exploration of assistive technology in an engaging, hands-on way.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

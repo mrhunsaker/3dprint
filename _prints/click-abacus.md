@@ -17,7 +17,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Click Abacus - View 3](/assets/images/prints/ClickAbacus2-1.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+An innovative abacus design inspired by light switches, where each bead clicks and locks into its set position so numbers stay in place during calculations. This eliminates the common problem of beads shifting accidentally, giving students with visual impairments greater confidence and accuracy when performing arithmetic. The audible click also provides auditory confirmation that a bead has been moved, adding a second sensory channel to the learning experience.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

@@ -18,7 +18,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 ![Light Grip Strength Trainer](/assets/images/prints/LightGripStrength.jpeg){: .full style="max-width: 600px;"}
 
 
-Description of item
+A light-resistance grip strength trainer designed for individuals beginning a hand strengthening program or recovering from injury. This 3D-printed device provides gentle resistance suited for building foundational grip strength, improving hand endurance, and supporting fine motor rehabilitation in occupational therapy settings.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

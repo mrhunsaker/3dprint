@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Magnifier Stand](/assets/images/prints/MagnifierStand.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+An adjustable 3D-printed stand designed to hold a magnifying glass or other optical aids at a fixed distance above reading materials. This hands-free solution allows individuals with low vision to read, write, and perform close-up tasks without needing to hold the magnifier, reducing fatigue and improving usability.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

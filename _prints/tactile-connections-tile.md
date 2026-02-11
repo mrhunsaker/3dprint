@@ -17,7 +17,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Tactile Connections Tile](/assets/images/prints/TactileConnectionsTile.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+An interactive tactile tile designed to help students explore connections and relationships between concepts through touch. Featuring raised pathways and braille labels, this tool supports both visual impairment education and speech language pathology goals, including vocabulary building, categorization, and concept mapping.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

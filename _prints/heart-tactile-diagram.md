@@ -16,7 +16,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Heart Tactile Diagram](/assets/images/prints/HeartTactileDiagram.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A flat tactile diagram of the human heart featuring raised lines, textures, and braille labels to represent key anatomical structures. This diagram provides an accessible alternative to printed diagrams for students with visual impairments studying cardiovascular anatomy in science and health courses.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

@@ -16,7 +16,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Periodic Table](/assets/images/prints/PeriodicTable.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A 3D-printed tactile periodic table of elements featuring raised cell borders and braille labels for element names, symbols, and atomic numbers. This educational tool gives students with visual impairments full access to the periodic table layout for chemistry instruction, enabling independent study and classroom participation.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

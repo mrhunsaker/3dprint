@@ -16,7 +16,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Perkins Unifix Cubes](/assets/images/prints/perkinsUnifixCubes.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+Braille-labeled unifix cubes designed for math education with students who have visual impairments. Each cube features embossed braille numbers that snap together, allowing students to build number lines, practice counting, and explore addition and subtraction concepts through tactile manipulation.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

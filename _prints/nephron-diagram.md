@@ -16,7 +16,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Nephron Diagram](/assets/images/prints/NepronDiagram.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A tactile diagram of the kidney nephron featuring raised structures representing the glomerulus, Bowman's capsule, proximal and distal tubules, loop of Henle, and collecting duct. This educational tool allows students with visual impairments to explore the functional unit of the kidney through touch, supporting biology and anatomy instruction.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

@@ -16,7 +16,7 @@ header:
 
 ![Orientation-Mobility-Intersections.jpeg_Title](/assets/images/prints/Orientation-Mobility-Intersections.jpeg){: .full style="max-width: 600px;"}
 
-A 3D tactile model representing street intersections for orientation and mobility training. Helps users understand traffic patterns and navigation through touch.
+A 3D tactile model of street intersections used in Orientation and Mobility (O&M) training for students with visual impairments. The model includes raised curbs, crosswalks, traffic lanes, and intersection geometry, allowing learners to build a mental map of different intersection types before encountering them in real-world travel. Supports instruction on traffic patterns, safe crossing strategies, and spatial orientation concepts.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

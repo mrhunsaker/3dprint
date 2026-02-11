@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Egg Over Easy](/assets/images/prints/EggOverEasy.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A flexible, floppy 3D-printed egg model that serves double duty as both a sensory fidget and a teaching tool for cooking skills. The realistic floppiness mimics how a real fried egg moves, allowing students to practice the wrist and spatula motions needed to flip food in a pan — a key daily living skill. Its playful design also makes it an engaging tactile fidget for self-regulation and sensory breaks.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

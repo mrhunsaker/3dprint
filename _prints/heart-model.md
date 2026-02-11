@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Heart Model](/assets/images/prints/Heart.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A detailed 3D-printed model of the human heart designed for tactile anatomy education. This model features raised structures representing the chambers, valves, and major blood vessels, allowing students with visual impairments to explore cardiovascular anatomy through touch. Ideal for science classrooms and individualized instruction.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

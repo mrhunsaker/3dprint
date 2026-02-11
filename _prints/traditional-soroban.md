@@ -15,7 +15,7 @@ header:
 
 ![IMG_0044.jpeg_Title](/assets/images/prints/IMG_0044.jpeg){: .full style="max-width: 600px;"}
 
-A traditional Soroban (Japanese abacus) adapted for tactile learning. Excellent for teaching arithmetic and mathematical concepts through touch.
+A 3D-printed traditional Japanese soroban abacus adapted for tactile use by students with visual impairments. Featuring the classic 1-bead-above / 4-beads-below configuration per column, this soroban supports all four basic arithmetic operations as well as more advanced calculations. The tactile bead positions allow students to learn and apply the standard soroban methods used worldwide, making it a powerful tool for math instruction from elementary through advanced levels.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

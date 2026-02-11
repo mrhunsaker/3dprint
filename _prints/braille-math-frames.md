@@ -20,7 +20,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 ![Braille Number Storage](/assets/images/prints/BrailleNumberStorage.jpeg){: .full style="max-width: 600px;"}
 
 
-Description of item
+A comprehensive math system developed to teach the structure of mathematical operations — addition, subtraction, multiplication, division, and time — in a format that mirrors how sighted students learn. Each frame provides a tactile workspace where students can physically place braille number tiles into organized columns and rows, scaffolding the process for learners who are blind or have little to no visual experience. The system supports print numbers, Unified English Braille (UEB), and Nemeth code number representations, making it adaptable across different braille math curricula.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

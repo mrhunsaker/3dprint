@@ -17,7 +17,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Light Grip Strength Trainer - View 2](/assets/images/prints/LightGripStrength2.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+An alternate design of the light-resistance grip strength trainer, offering a slightly different form factor for hand strengthening exercises. This variant provides comfortable, low-resistance squeezing suitable for early-stage rehabilitation, warm-up routines, or individuals with reduced hand strength who need a gentler starting point in their therapy progression.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

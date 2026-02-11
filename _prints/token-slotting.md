@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Token Slotting](/assets/images/prints/TokenSlotting.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A fine motor skills activity set featuring tokens and a slotted base. Users practice hand-eye coordination and dexterity by inserting tokens into matching slots. This tool is used in occupational therapy to develop pinch grip, finger isolation, and bilateral coordination skills.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

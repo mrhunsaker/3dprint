@@ -16,7 +16,7 @@ header:
 
 ![Orientation-Mobility-Route-Shapes.jpeg_Title](/assets/images/prints/Orientation-Mobility-Route-Shapes.jpeg){: .full style="max-width: 600px;"}
 
-Educational tactile models of various route shapes and patterns for orientation and mobility instruction. Helps students understand different navigation routes through touch.
+Tactile models representing common route shapes and travel patterns encountered during Orientation and Mobility (O&M) instruction. Students with visual impairments use these models to learn and practice recognizing L-shapes, U-shapes, zigzag routes, and other path configurations by touch. By internalizing these spatial patterns before real-world travel, learners build stronger navigation skills and greater confidence when moving through unfamiliar environments.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

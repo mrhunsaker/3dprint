@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Pencil Holder](/assets/images/prints/PencilHolder.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+An adaptive pencil and pen organizer with tactile slots designed to keep writing tools accessible and neatly arranged. This holder supports independent desk organization for individuals working on fine motor and daily living skills in occupational therapy settings.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

@@ -43,7 +43,8 @@
     "$Short_Description",
     "$Photo",
     "$Photo_Title",
-    "$Long_Description"
+    "$Long_Description",
+    "$STL_Link"
   ],
   "steps": [
     "Read next_prt_number from Inventory/inventory.json",
@@ -69,7 +70,21 @@
       "sku": "PRT-XXXXX-SUFFIXES",
       "categories": "[list of applicable categories]",
       "tags": "[list of generated tags]",
-      "description": "$Short_Description"
+      "description": "$Short_Description",
+      "stl": "/assets/files/LINK TO 3D PRINT FILE(s).stl",
+      "header.teaser": "/assets/images/prints/<first-image-filename>"
+    },
+    "body_content": {
+      "images": "One ![alt](path){: .full style=\"max-width: 600px;\"} line per image",
+      "long_description": "Descriptive paragraph below images (replace $Long_Description)",
+      "request_form": "Standard request form HTML + script block (copied from template)"
     }
-  }
+  },
+  "notes": [
+    "The stl frontmatter field should be included in every print markdown file, defaulting to '/assets/files/LINK TO 3D PRINT FILE(s).stl' if no STL link is provided.",
+    "$Long_Description must be replaced with an actual descriptive paragraph — never leave as 'Description of item'.",
+    "When multiple images exist, repeat the image markdown line for each file; the first image should match header.teaser.",
+    "Category values in frontmatter must use the exact allowed_categories strings (not 'accessibility' or 'braille').",
+    "The Template/ folder in Staging is the blank template and should never be processed as a project."
+  ]
 }

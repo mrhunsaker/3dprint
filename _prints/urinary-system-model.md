@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Urinary System Model](/assets/images/prints/urinarySystem.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A 3D-printed tactile model of the human urinary system, including the kidneys, ureters, bladder, and urethra. This educational model allows students with visual impairments to explore the structure and spatial relationships of the urinary tract through touch, supporting anatomy and biology instruction.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

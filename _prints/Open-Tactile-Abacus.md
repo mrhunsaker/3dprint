@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Open Tactile Abacus](/assets/images/prints/ClickAbacus.jpeg){: .full}
 
-Description of item
+A light-switch inspired soroban-style abacus designed for users who are blind or have visual impairments. Each bead clicks into position, providing clear tactile and auditory feedback during calculations. This open-design abacus supports math instruction including addition, subtraction, multiplication, and division using the traditional Japanese soroban method.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

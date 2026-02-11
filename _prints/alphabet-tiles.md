@@ -17,7 +17,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Alphabet Tiles - View 2](/assets/images/prints/AlphabetTiles2.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+Braille study tiles designed for young learners working on dot position recognition. Each tile features a raised braille cell with clearly defined dot positions, helping students develop the tactile discrimination skills needed for braille literacy. The tiles can be used for letter identification, sequencing activities, and matching exercises, making them a versatile resource for early braille instruction in both individual and group settings.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

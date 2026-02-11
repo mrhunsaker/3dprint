@@ -15,7 +15,7 @@ header:
 
 ![Customizable-Braille0Print-Keyring.jpg_Title](/assets/images/prints/Customizable-Braille0Print-Keyring.jpg){: .full style="max-width: 600px;"}
 
-A customizable keyring with braille labeling that allows users to identify keys and personal items by touch. Perfect for organizing keys with tactile feedback.
+A customizable keyring featuring both braille and print text, allowing users to label and identify keys, bags, and personal items by touch and sight. Each tag can be personalized with a name, room number, or other identifier, making it an effective organizational aid for individuals with visual impairments. Ideal for daily living skills instruction, workplace accommodations, and personal independence.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

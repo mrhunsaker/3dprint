@@ -14,7 +14,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Plug Puller](/assets/images/prints/PlugPuller.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+An adaptive device designed to help individuals safely and easily remove electrical plugs from outlets. The ergonomic handle provides leverage and a secure grip, reducing the hand strength required to pull plugs. Ideal for people with limited dexterity or grip strength seeking greater independence in daily living tasks.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

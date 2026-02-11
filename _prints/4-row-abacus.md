@@ -16,7 +16,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![4 Row Abacus](/assets/images/prints/4RowAbacus.jpeg){: .full style="max-width: 600px;"}
 
-This is a great starter abacus system that has 4 rows of 9 beads, so a student can do operations up to 9999. There is no 5 bead, so this is perfect for the counting method and teaching beginning abacus skills. 
+A compact 4-row abacus with 9 beads per row, allowing students to perform operations up to 9,999. This design intentionally omits the 5-bead found on traditional soroban models, making it an ideal starter tool for teaching the counting method and introducing beginning abacus skills to students with visual impairments. Its simple layout helps learners build a solid foundation in place value and basic arithmetic before advancing to more complex abacus systems.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

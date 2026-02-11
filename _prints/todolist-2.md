@@ -16,7 +16,7 @@ header:
 
 ![IMG_0061.jpeg_Title](/assets/images/prints/IMG_0061.jpeg){: .full style="max-width: 600px;"}
 
-An improved task management system with better tactile organization and labeling for daily task planning.
+An enhanced version of the tactile task management system with improved labeling, additional task slots, and a more refined layout for organizing daily responsibilities. This version supports more complex scheduling needs and is designed for individuals progressing toward greater independence in self-management. Used in occupational therapy and speech language pathology programs to reinforce executive functioning, sequencing, and time management skills.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

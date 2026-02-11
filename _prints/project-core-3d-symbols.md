@@ -16,7 +16,7 @@ header:
 
 ![Project_Core-3D-Symbols.jpeg_Title](/assets/images/prints/Project_Core-3D-Symbols.jpeg){: .full style="max-width: 600px;"}
 
-A set of 3D tactile symbols representing core educational concepts and ideas. Provides visual-tactile learning aids for science and language arts curriculum.
+A set of 3D-printed tactile symbols based on the Project Core communication framework, which focuses on high-frequency core vocabulary words used across all areas of daily life. Each symbol provides a tangible, touchable representation of a core concept — such as "want," "go," "help," and "more" — enabling students with visual impairments and communication needs to engage with augmentative and alternative communication (AAC) systems. Ideal for speech language pathology and vision services working together to support language development.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

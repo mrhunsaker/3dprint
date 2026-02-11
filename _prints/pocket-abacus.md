@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Pocket Abacus](/assets/images/prints/Abacus_Pocket.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A compact, portable abacus designed for on-the-go math calculations. This pocket-sized tool features tactile beads that are easy to manipulate, making it ideal for students with visual impairments who need a lightweight and travel-friendly math aid for use in the classroom, at home, or in the community.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

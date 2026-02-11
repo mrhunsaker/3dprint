@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Braille Dice](/assets/images/prints/BrailleDice.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+Accessible dice featuring raised braille numbers on each face, enabling individuals who are blind or have visual impairments to participate independently in board games, math activities, and other dice-based learning exercises. These tactile dice promote inclusion during recreational play and can also be used as teaching tools for number recognition and probability concepts.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Swing Cell - View 1](/assets/images/prints/Swing-Cell.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A large-format swing cell braille learning tool featuring hinged dots that swing into position to form braille characters. This hands-on manipulative helps students with visual impairments learn and practice braille letter formation by physically toggling each dot up or down within an oversized cell layout.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

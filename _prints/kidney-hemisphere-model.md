@@ -15,7 +15,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![Kidney Hemisphere Model](/assets/images/prints/KidneyHemisphere.jpeg){: .full style="max-width: 600px;"}
 
-Description of item
+A 3D-printed cross-section model of the kidney showing the internal structure in hemisphere form. Students with visual impairments can explore the cortex, medulla, pyramids, and renal pelvis through touch, gaining a spatial understanding of kidney anatomy that supports science and health education.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>
