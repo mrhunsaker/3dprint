@@ -17,7 +17,7 @@ stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 
 ![2-Point Discrimination Tool](/assets/images/prints/2-point-discrimination.jpeg){: .full style="max-width: 600px;"}
 
-A 3D-printed 2-point discrimination testing device used in occupational therapy to assess tactile sensory function. This tool features two adjustable or fixed-distance points that are applied to the skin to determine whether a patient can distinguish between one and two points of contact. It is commonly used for evaluating nerve recovery after injury, monitoring sensory changes, and guiding treatment planning for hand and upper extremity rehabilitation.
+A 3D-printed 2-point discrimination testing device used in occupational therapy to assess tactile sensory function. This tool features a series of fixed-distance points that are applied to the skin to determine whether a patient can distinguish between one and two points of contact. It is commonly used for evaluating nerve recovery after injury, monitoring sensory changes, and guiding treatment planning for hand and upper extremity rehabilitation.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>
