@@ -356,11 +356,25 @@
       "sku": "PRT-00051",
       "categories": [],
       "tags": ["adaptive-tools", "workshop", "tools"]
+    },
+    {
+      "prt_number": 52,
+      "title": "Hand Rehabilitation with Screws",
+      "sku": "PRT-00052-OT-PT",
+      "categories": ["occupational therapy", "physical therapy"],
+      "tags": ["rehabilitation", "hand-therapy", "adaptive-tools", "therapy", "health", "fine-motor"]
+    },
+    {
+      "prt_number": 53,
+      "title": "Spoon and Fork Holder",
+      "sku": "PRT-00053-OT",
+      "categories": ["occupational therapy"],
+      "tags": ["adaptive-tools", "daily-living", "eating", "utensils", "therapy"]
     }
   ],
-  "next_prt_number": 52,
+  "next_prt_number": 54,
   "metadata": {
-    "last_updated": "2026-02-10",
-    "total_projects": 51
+    "last_updated": "2026-02-11",
+    "total_projects": 53
   }
 }
