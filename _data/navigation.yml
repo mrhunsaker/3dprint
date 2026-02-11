@@ -7,5 +7,7 @@ main:
     url: /tags/
   - title: "Custom Project"
     url: /custom-project/
+  - title: "Puppets"
+    url: /puppets/
   - title: "About"
     url: /about/
