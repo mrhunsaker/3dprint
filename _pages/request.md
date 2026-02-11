@@ -5,8 +5,6 @@ permalink: /request/
 classes: wide
 ---
 
-# Request (Checkout)
-
 This page collects all items you've added and pre-fills them into the district Microsoft Form.
 
 <p><strong>Items in your request:</strong> <span id="cart-list">(none)</span></p>
