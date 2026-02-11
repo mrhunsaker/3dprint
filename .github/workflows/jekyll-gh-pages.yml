@@ -41,6 +41,20 @@ jobs:
         env:
           JEKYLL_ENV: production
         run: bundle exec jekyll build --source ./ --destination ./_site --trace
+      - name: List built files (debug)
+        run: |
+          echo "Built file count: $(find _site -type f | wc -l)"
+          echo "Top built files:" 
+          find _site -type f | sort | sed -n '1,200p'
+      - name: Save built file list
+        run: |
+          find _site -type f | sort > site-files.txt
+          echo "Saved site-files.txt (lines: $(wc -l < site-files.txt))"
+      - name: Upload site file list (debug artifact)
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-files
+          path: site-files.txt
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -1,0 +1,8 @@
+Configuration file: /var/home/ryhunsaker/GitHubRepos/DSD3DPrintOrdering/_config.yml
+            Source: /var/home/ryhunsaker/GitHubRepos/DSD3DPrintOrdering
+       Destination: /var/home/ryhunsaker/GitHubRepos/DSD3DPrintOrdering/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 0.966 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
