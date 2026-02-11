@@ -53,10 +53,11 @@
     "Determine applicable categories based on topic/context. Multiple categories allowed (max 5). Only use allowed categories. IMPORTANT: miscellaneous can only be used if no other categories apply.",
     "Generate SKU: PRT-XXXXX-SUFFIXES where XXXXX is next_prt_number (zero-padded to 5 digits), and SUFFIXES are category codes in order (e.g., PRT-00052-OT-VIS)",
     "Generate tags based on topic and product type (e.g., braille, tactile, adaptive, mobility, therapy, etc.).",
+    "Rename all image files in Staging/<project_name>/ to match the folder name. If there is only 1 image, rename it to <folder-name>.<ext>. If there are multiple images, rename them to <folder-name>.ext, <folder-name>-2.<ext>, <folder-name>-3.<ext>, etc. Preserve the original file extension (e.g., .jpeg, .jpg, .png).",
     "If multiple images exist, repeat the image markdown line once per image",
     "Replace placeholders in the file with provided values, populate categories and tags in frontmatter.",
     "Rename the file to a slugified filename (lowercase with hyphens) and move it to _prints/<slug>.md.",
-    "Move all image files from Staging/<project_name>/ to assets/images/prints/.",
+    "Move all renamed image files from Staging/<project_name>/ to assets/images/prints/.",
     "Update Inventory/inventory.json with new project entry and increment next_prt_number.",
     "Ensure header teaser uses the first image file path.",
     "Clean up staging folder (remove template.md and images)."
@@ -85,6 +86,7 @@
     "$Long_Description must be replaced with an actual descriptive paragraph — never leave as 'Description of item'.",
     "When multiple images exist, repeat the image markdown line for each file; the first image should match header.teaser.",
     "Category values in frontmatter must use the exact allowed_categories strings (not 'accessibility' or 'braille').",
-    "The Template/ folder in Staging is the blank template and should never be processed as a project."
+    "The Template/ folder in Staging is the blank template and should never be processed as a project.",
+    "Images must be renamed to match the staging folder name before moving. Single image: <folder-name>.<ext>. Multiple images: <folder-name>.<ext>, <folder-name>-2.<ext>, <folder-name>-3.<ext>, etc. The first image (no number suffix) is used as header.teaser."
   ]
 }

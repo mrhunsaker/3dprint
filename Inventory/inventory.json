@@ -370,11 +370,32 @@
       "sku": "PRT-00053-OT",
       "categories": ["occupational therapy"],
       "tags": ["adaptive-tools", "daily-living", "eating", "utensils", "therapy"]
+    },
+    {
+      "prt_number": 54,
+      "title": "Lacing Board Shoes Left Right",
+      "sku": "PRT-00054-OT",
+      "categories": ["occupational therapy"],
+      "tags": ["adaptive-tools", "daily-living", "fine-motor", "lacing", "shoe-tying", "education"]
+    },
+    {
+      "prt_number": 55,
+      "title": "Drag Pencil Holder",
+      "sku": "PRT-00055-OT",
+      "categories": ["occupational therapy"],
+      "tags": ["adaptive-tools", "writing", "fine-motor", "daily-living", "education"]
+    },
+    {
+      "prt_number": 56,
+      "title": "2-Point Discrimination",
+      "sku": "PRT-00056-OT",
+      "categories": ["occupational therapy"],
+      "tags": ["adaptive-tools", "therapy", "sensory", "assessment", "health"]
     }
   ],
-  "next_prt_number": 54,
+  "next_prt_number": 57,
   "metadata": {
     "last_updated": "2026-02-11",
-    "total_projects": 53
+    "total_projects": 56
   }
 }

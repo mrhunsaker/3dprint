@@ -1,5 +1,5 @@
 ---
-title: "Screen Reader Screen"
+title: "Screen Reader Tactile Screen"
 sku: "PRT-00037-VIS"
 description: "Tactile screen reader display with multiple configurations"
 categories:
