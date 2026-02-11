@@ -58,8 +58,27 @@ This page collects all items you've added and pre-fills them into the district M
       updatePage();
     });
     updatePage();
+
+    // Detect blocked iframe after a timeout
+    const iframe = document.getElementById("msform");
+    const fallback = document.getElementById("iframe-fallback");
+    if (iframe && fallback) {
+      setTimeout(() => {
+        try {
+          const doc = iframe.contentDocument || iframe.contentWindow.document;
+          if (!doc || !doc.body || doc.body.innerHTML.trim() === "") {
+            fallback.style.display = "block";
+          }
+        } catch (e) { /* cross-origin = loaded OK */ }
+      }, 4000);
+      iframe.addEventListener("error", () => { fallback.style.display = "block"; });
+    }
   });
 </script>
+
+<div id="iframe-fallback" style="display:none; padding:1.5rem; background:#fff3cd; border:1px solid #ffc107; border-radius:6px; margin-bottom:1rem;">
+  <p style="margin:0;">⚠️ <strong>Form not loading?</strong> Your browser may be blocking the embedded form. Click <strong>Open Form in New Tab</strong> above, or add this site to your browser's exceptions for Enhanced Tracking Protection.</p>
+</div>
 
 <iframe id="msform"
         width="100%" height="900"

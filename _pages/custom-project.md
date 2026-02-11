@@ -14,10 +14,39 @@ Have an idea for a custom 3D print that isn't in our catalog? Use this form to d
 <!-- Replace FORM_BASE with your actual Custom Project Microsoft Form URL -->
 <script>
   const FORM_BASE = "https://forms.office.com/Pages/ResponsePage.aspx?id=dPKcPX5U9UqN3gGmNuC2B9BUqS29h4FEq3EuP1SejDdUOEdOVUZWUk9FN1NZVlNWNjNFRVpXWkxJQy4u&embed=true";
+  const FORM_DIRECT = FORM_BASE.replace("&embed=true", "");
 
   document.addEventListener("DOMContentLoaded", () => {
-    document.getElementById("msform").src = FORM_BASE;
-    document.getElementById("open-direct").href = FORM_BASE.replace("&embed=true", "");
+    const iframe = document.getElementById("msform");
+    const fallback = document.getElementById("iframe-fallback");
+
+    // Set all "open direct" links
+    document.getElementById("open-direct").href = FORM_DIRECT;
+    const fb = document.getElementById("open-direct-fallback");
+    if (fb) { fb.href = FORM_DIRECT; fb.target = "_blank"; }
+    const ns = document.getElementById("open-direct-noscript");
+    if (ns) ns.href = FORM_DIRECT;
+
+    // Try to detect blocked iframe after a timeout
+    iframe.src = FORM_BASE;
+    setTimeout(() => {
+      try {
+        // If cross-origin, accessing contentDocument throws; that's expected.
+        // But if the iframe body is completely empty or the iframe didn't load,
+        // show the fallback.
+        const doc = iframe.contentDocument || iframe.contentWindow.document;
+        if (!doc || !doc.body || doc.body.innerHTML.trim() === "") {
+          fallback.style.display = "block";
+        }
+      } catch (e) {
+        // Cross-origin = form loaded successfully (normal); do nothing
+      }
+    }, 4000);
+
+    // Also show fallback if iframe fires an error
+    iframe.addEventListener("error", () => {
+      fallback.style.display = "block";
+    });
   });
 </script>
 
