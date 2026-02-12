@@ -68,11 +68,15 @@ classes: wide
 
 <div style="text-align: center; margin-bottom: 2rem;">
   <p style="font-size: 1.2rem;">Browse our complete collection of accessible 3D prints</p>
-  <a href="{{ '/request/' | relative_url }}" class="btn btn--primary btn--large">View Checkout</a>
-  <a href="{{ '/custom-project/' | relative_url }}" class="btn btn--success btn--large">Custom Project</a>
-  <a href="{{ '/puppets/' | relative_url }}" class="btn btn--warning btn--large">Puppets</a>
-  <a href="{{ '/categories/' | relative_url }}" class="btn btn--info">Browse by Category</a>
-  <a href="{{ '/tags/' | relative_url }}" class="btn btn--info">Browse by Tag</a>
+  <div style="display:flex; gap:0.75rem; justify-content:center; margin:0.5rem 0; flex-wrap:wrap;">
+    <a href="{{ '/request/' | relative_url }}" class="btn btn--primary btn--large">View Checkout</a>
+    <a href="{{ '/custom-project/' | relative_url }}" class="btn btn--success btn--large">Custom Project</a>
+    <a href="{{ '/puppets/' | relative_url }}" class="btn btn--warning btn--large">Puppets</a>
+  </div>
+  <div style="display:flex; gap:0.5rem; justify-content:center; margin:0.25rem 0; flex-wrap:wrap;">
+    <a href="{{ '/categories/' | relative_url }}" class="btn btn--info">Browse by Category</a>
+    <a href="{{ '/tags/' | relative_url }}" class="btn btn--info">Browse by Tag</a>
+  </div>
 </div>
 
 {% assign prints = site.prints | sort: 'title' %}
