@@ -3,8 +3,10 @@
 title: "DSD Related Services 3D Print Catalog"
 description: "Static catalog of ready-to-print 3D models with request workflow"
 email: ryhunsaker@dsdsmail.net
-url: ""
-baseurl: ""
+# GitHub Pages site root
+url: "https://mrhunsaker.github.io"
+# Repository base path (GitHub Pages project site)
+baseurl: "/3dprint"
 
 # Theme
 theme: minimal-mistakes-jekyll
@@ -57,8 +59,7 @@ defaults:
     values:
       layout: single
 
-# Include pages
-include: ["_pages"]
+# `_pages` is processed via the `pages` collection; do not include it here
 
 category_archive:
   type: liquid

@@ -69,11 +69,11 @@ author_profile: true
 
 <div style="text-align: center; margin-bottom: 2rem;">
   <p style="font-size: 1.2rem;">Browse our collection of accessible 3D prints</p>
-  <a href="/request/" class="btn btn--primary btn--large">View Checkout</a>
-  <a href="/custom-project/" class="btn btn--success btn--large">Custom Project</a>
-  <a href="/puppets/" class="btn btn--warning btn--large">Puppets</a>
-  <a href="/categories/" class="btn btn--info">Browse by Category</a>
-  <a href="/tags/" class="btn btn--info">Browse by Tag</a>
+  <a href="{{ '/request/' | relative_url }}" class="btn btn--primary btn--large">View Checkout</a>
+  <a href="{{ '/custom-project/' | relative_url }}" class="btn btn--success btn--large">Custom Project</a>
+  <a href="{{ '/puppets/' | relative_url }}" class="btn btn--warning btn--large">Puppets</a>
+  <a href="{{ '/categories/' | relative_url }}" class="btn btn--info">Browse by Category</a>
+  <a href="{{ '/tags/' | relative_url }}" class="btn btn--info">Browse by Tag</a>
 </div>
 
 <h2 class="archive__subtitle">Available Prints</h2>

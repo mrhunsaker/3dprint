@@ -68,9 +68,9 @@ classes: wide
 
 <div style="text-align: center; margin-bottom: 2rem;">
   <p style="font-size: 1.2rem;">Browse our complete collection of accessible 3D prints</p>
-  <a href="/request/" class="btn btn--primary btn--large">View Checkout</a>
-  <a href="/categories/" class="btn btn--info">Browse by Category</a>
-  <a href="/tags/" class="btn btn--info">Browse by Tag</a>
+  <a href="{{ '/request/' | relative_url }}" class="btn btn--primary btn--large">View Checkout</a>
+  <a href="{{ '/categories/' | relative_url }}" class="btn btn--info">Browse by Category</a>
+  <a href="{{ '/tags/' | relative_url }}" class="btn btn--info">Browse by Tag</a>
 </div>
 
 {% assign prints = site.prints | sort: 'title' %}
