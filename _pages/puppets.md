@@ -56,7 +56,6 @@ Here is the pattern from Puppet Nerd (I provide it here so you do not have to gi
 ### Instructions
 
 #### Step 1 — Prepare the Fur and Workspace
-
 Lay out your faux fur squares and gather your sewing tools. Cut the fur pieces according to the Snoof pattern template.
 
 ![Snoof faux fur pieces laid out and ready for cutting](/assets/images/puppets/snoof-floof.jpeg)
@@ -67,11 +66,9 @@ Thread your needle with polyester thread and have your sewing clips within reach
 
 ![Sewing setup with thread, needles, and clips ready for snoof assembly](/assets/images/puppets/snoof-sewing-setup.jpeg)
 
-#### Step 3 — Sew the Mouth
 
 Start by assembling the mouth piece. Use the red and black felt sheets to create the mouth interior. Clip the pieces together before sewing for alignment.
 
-![Snoof mouth piece cut from felt](/assets/images/puppets/snoof-mouth.jpeg)
 
 ![Several snoof mouth pieces in various stages of completion](/assets/images/puppets/snoof-mouth-few.jpeg)
 
@@ -81,62 +78,61 @@ Start by assembling the mouth piece. Use the red and black felt sheets to create
 
 Sew the fur body panels together, attaching the mouth piece to the front. Use clips to hold seams in place as you work around curves.
 
-![Multiple snoof puppets in various stages of assembly on the work surface](/assets/images/puppets/snoof-assembly-line.jpeg)
+    ![Puppetry workspace with materials and tools laid out on a table]({{ '/assets/images/puppets/puppetry-workspace.jpeg' | relative_url }})
 
 ![Snoof puppet mid-construction showing body taking shape](/assets/images/puppets/snoof-in-progress.jpeg)
 
 #### Step 5 — Place the Eyes
 
 Attach the EVA foam eyeballs with safety eye posts from the inside. Position them symmetrically — the photos below show internal placement from two angles.
-
+    ![Snoof faux fur pieces laid out and ready for cutting]({{ '/assets/images/puppets/snoof-floof.jpeg' | relative_url }})
 ![Internal view of snoof eye placement from a horizontal angle](/assets/images/puppets/snoof-eye-placement-internal_horizontal.jpeg)
 
 ![Internal view of snoof eye placement from a vertical angle](/assets/images/puppets/snoof-eye-placement-internal-vertical.jpeg)
 
 #### Step 6 — Finished Snoof Puppets
 
-Turn the puppet right-side out, fluff the fur, and your Snoof is complete!
+    ![Sewing setup with thread, needles, and clips ready for snoof assembly]({{ '/assets/images/puppets/snoof-sewing-setup.jpeg' | relative_url }})
 
 ![Completed green snoof puppet](/assets/images/puppets/purple-snoof.jpeg)
-
+    ![Snoof mouth piece cut from felt]({{ '/assets/images/puppets/snoof-mouth.jpeg' | relative_url }})
 ![Completed purple snoof puppet with fluffy fur](/assets/images/puppets/purple-snoof.jpeg)
 
-![A group of finished monster puppets gathered together](/assets/images/puppets/monster-party.jpeg)
+    ![Several snoof mouth pieces in various stages of completion]({{ '/assets/images/puppets/snoof-mouth-few.jpeg' | relative_url }})
 
 ---
 
 ## Glove Puppets
 
 Here is the pattern from Puppet Nerd (I provide it here so you do not have to give a random website your email address):
-[Glove Puppet Pattern](/assets/files/Glove-Puppet-Pattern-Puppet-Nerd.pdf)
+    ![Snoof mouth piece partially sewn together]({{ '/assets/images/puppets/snoof-mouth-half-sewn.jpeg' | relative_url }})
 
 ### Materials
-
+    ![Multiple snoof puppets in various stages of assembly on the work surface]({{ '/assets/images/puppets/snoof-assembly-line.jpeg' | relative_url }})
 - **From Amazon:**
     - XSEINO 6 Rolls 12" X 35" 1.4mm Thick Soft Felt Fabric Sheet — 6 Assorted Classics Series Colors Felt Pack for DIY Craft Sewing Squares Nonwoven Patchwork
     - Any appropriately sized buttons for eyes
     - Scissors for cutting thread and trimming felt. 
 - **From Wawak:**
     - Coats and Clark polyester thread (500 yds)
-    - Wawak Plastic Sewing Clips - Standard - 1" X 3/8" - 100 Pack
+    ![Snoof puppet mid-construction showing body taking shape]({{ '/assets/images/puppets/snoof-in-progress.jpeg' | relative_url }})
     - Sewing Needles, size 7 (or your preference)
 
-### Instructions
+    ![Internal view of snoof eye placement from a horizontal angle]({{ '/assets/images/puppets/snoof-eye-placement-internal_horizontal.jpeg' | relative_url }})
 
 #### Step 1 — Lay Out the Pattern
 
 Print the glove puppet pattern and lay it on your felt sheets. Pin or clip the pattern in place before cutting.
 
 ![Glove puppet pattern pieces laid out on felt fabric](/assets/images/puppets/glove-puppet-layout.jpeg)
-
+    ![Internal view of snoof eye placement from a vertical angle]({{ '/assets/images/puppets/snoof-eye-placement-internal-vertical.jpeg' | relative_url }})
 #### Step 2 — Cut the Pieces
 
-Carefully cut around the pattern templates. You should have front, back, and any accent pieces when done.
+    ![Completed green snoof puppet]({{ '/assets/images/puppets/purple-snoof.jpeg' | relative_url }})
 
 ![Glove puppet felt pieces after cutting](/assets/images/puppets/glove-puppet-cut.jpeg)
-
+    ![Completed purple snoof puppet with fluffy fur]({{ '/assets/images/puppets/purple-snoof.jpeg' | relative_url }})
 #### Step 3 — Attach Eyes and Features
-
 Position the button eyes on the puppet face. To make life easy, attach the eyes **PRIOR** to sewing the pattern together. when you sew the puppet together, the eyes will be on the **inside**
 
 For smaller glove puppets, the photo below shows a suggested eye layout.
@@ -145,11 +141,9 @@ For smaller glove puppets, the photo below shows a suggested eye layout.
 
 #### Step 4 — Sew and Finish
 
-Clip the front and back pieces together, then sew around the edges leaving the bottom open for your hand. Turn right-side out and your glove puppet is ready!
 
 ---
 
-## The Full Monster Collection
 
 ![All finished monster puppets — snoofs and glove puppets — displayed together](/assets/images/puppets/all-the-monsters.jpeg)
 
@@ -161,14 +155,14 @@ Note, I use [Remarkbox](https://www.remarkbox.com/) for comments to prevent Disq
 <div id="remarkbox-div">
     <noscript>
         <iframe id=remarkbox-iframe src="https://my.remarkbox.com/embed?nojs=true&mode=light" style="height:600px;width:100%;border:none!important" tabindex=0></iframe>
-    </noscript>
+    ![A group of finished monster puppets gathered together]({{ '/assets/images/puppets/monster-party.jpeg' | relative_url }})
 </div>
 <script src="https://my.remarkbox.com/static/js/iframe-resizer/iframeResizer.min.js"></script>
 <script>
     var rb_owner_key = "9f6d3e72-e739-11f0-b88e-040140774501";
     var thread_uri = window.location.href;
     var thread_title = window.document.title;
-    var thread_fragment = window.location.hash;
+    ![Glove puppet pattern pieces laid out on felt fabric]({{ '/assets/images/puppets/glove-puppet-layout.jpeg' | relative_url }})
 
     // rb owner was here.
     var rb_src = "https://my.remarkbox.com/embed" +
@@ -177,13 +171,12 @@ Note, I use [Remarkbox](https://www.remarkbox.com/) for comments to prevent Disq
             "&thread_uri=" + encodeURIComponent(thread_uri) +
             "&mode=light" +
             thread_fragment;
-    
+    ![Glove puppet felt pieces after cutting]({{ '/assets/images/puppets/glove-puppet-cut.jpeg' | relative_url }})
     function create_remarkbox_iframe() {
         var ifrm = document.createElement("iframe");
         ifrm.setAttribute("id", "remarkbox-iframe");
         ifrm.setAttribute("scrolling", "no");
         ifrm.setAttribute("src", rb_src);
-        ifrm.setAttribute("frameborder", "0");
         ifrm.setAttribute("tabindex", "0");
         ifrm.setAttribute("title", "Remarkbox");
         ifrm.style.width = "100%";
