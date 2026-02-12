@@ -31,6 +31,9 @@ collections:
   prints:
     output: true
     permalink: /prints/:path/
+  pages:
+    output: true
+    permalink: /:path/
 
 # Defaults
 defaults:
@@ -87,12 +90,18 @@ author:
         - label: "Email"
           icon: "fas fa-fw fa-envelope"
           url: "mailto:ryhunsaker@dsdmail.net"
-        - label: "Website"
+        - label: "3D Print Catalog"
+          icon: "fas fa-fw fa-link"
+          url: "https://mrhunsaker.github.io/3dprints"
+        - label: "TVI Resources Website"
           icon: "fas fa-fw fa-link"
           url: "https://tviresources.github.io"
-        - label: "GitHub"
+        - label: "Personal GitHub"
           icon: "fab fa-fw fa-github"
           url: "https://github.com/mrhunsaker"
+        - label: "TVI Resources GitHub"
+          icon: "fab fa-fw fa-github"
+          url: "https://github.com/TVIResources"
         - label: "Thingiverse"
           icon: "fas fa-fw fa-gear"
           url: "https://www.thingiverse.com/TVI_Resources/designs"
