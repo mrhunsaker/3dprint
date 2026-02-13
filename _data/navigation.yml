@@ -9,5 +9,7 @@ main:
     url: /custom-project/
   - title: "Puppets"
     url: /puppets/
+  - title: "3D Print Resources & Training"
+    url: /training-info.html
   - title: "About"
     url: /about/
