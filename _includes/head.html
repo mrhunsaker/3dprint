@@ -26,3 +26,28 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+<script>
+  // Provide site base path for runtime fixes (Jekyll's relative_url on "/")
+  window.__SITE_BASE = "{{ '/' | relative_url }}";
+
+  // Rewrite any absolute "/assets/..." references to include the site's base path.
+  (function rewriteAssetPaths() {
+    function fixAttr(el, attr) {
+      try {
+        const val = el.getAttribute(attr);
+        if (val && val.indexOf('/') === 0 && val.startsWith('/assets/')) {
+          el.setAttribute(attr, window.__SITE_BASE + val.substring(1));
+        }
+      } catch (e) {
+        /* ignore */
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('img').forEach(function (img) { fixAttr(img, 'src'); });
+      document.querySelectorAll('a').forEach(function (a) { fixAttr(a, 'href'); });
+      document.querySelectorAll('source').forEach(function (s) { fixAttr(s, 'src'); fixAttr(s, 'srcset'); });
+    });
+  })();
+</script>

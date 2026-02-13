@@ -1,4 +1,13 @@
-{% capture overlay_img_path %}{{ page.header.overlay_image | relative_url }}{% endcapture %}
+{% capture overlay_img_path %}
+  {% if page.header.overlay_image %}
+    {{ page.header.overlay_image | relative_url }}
+  {% elsif page.header.image %}
+    {{ page.header.image | relative_url }}
+  {% elsif page.header.teaser %}
+    {{ page.header.teaser | relative_url }}
+  {% else %}
+  {% endif %}
+{% endcapture %}
 
 {% if page.header.overlay_filter contains "gradient" %}
   {% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
@@ -45,7 +54,8 @@
       {% endif %}
     </div>
   {% else %}
-    <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
+    {% assign hero_image_src = page.header.image | default: page.header.teaser %}
+    <img src="{{ hero_image_src | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
   {% endif %}
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>

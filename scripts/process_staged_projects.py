@@ -130,19 +130,20 @@ for project_name, metadata in projects.items():
     first_image = metadata["images"][0]
     new_content = new_content.replace("$Photo", first_image)
     new_content = new_content.replace("$Photo_Title", metadata["title"])
-    
-    # Add additional images if they exist
+
+    # Add additional images if they exist - emit Liquid relative_url so Jekyll will resolve paths
     if len(metadata["images"]) > 1:
-        image_lines = [f'![]({img.replace("assets/images/prints/", "")}):' for img in metadata["images"]]
-        image_markdown = "\n".join([f'![{metadata["title"]}](/assets/images/prints/{img}):' .full style="max-width: 600px;"}' for img in metadata["images"]])
-        # Find the first image line and replace
-        first_image_pattern = rf'!\[{re.escape(metadata["title"])}\]\(/assets/images/prints/{re.escape(first_image)}\):' .full style="max-width: 600px;"}' 
-        # Insert additional images after first
-        insertion_point = new_content.find(f'![{metadata["title"]}](/assets/images/prints/{first_image})')
-        if insertion_point != -1:
-            end_of_first_image = new_content.find('"}', insertion_point) + 2
-            additional_images = "\n".join([f'![{metadata["title"]}](/assets/images/prints/{img}):' .full style="max-width: 600px;"}' for img in metadata["images"][1:]])
-            new_content = new_content[:end_of_first_image] + "\n\n" + additional_images + new_content[end_of_first_image:]
+        lines = []
+        for img in metadata["images"]:
+            # Build a Liquid-wrapped asset path like: {{ '/assets/images/prints/IMG.jpeg' | relative_url }}
+            liquid_path = "{{ '" + "/assets/images/prints/" + img + "' | relative_url }}"
+            lines.append(f'![{metadata["title"]}](' + liquid_path + '){: .full style="max-width: 600px;"}')
+        image_markdown = "\n\n".join(lines)
+
+        # Replace the single first-image markdown line (which was produced by earlier replacements)
+        first_snippet = f'![{metadata["title"]}](/assets/images/prints/{first_image})'
+        if first_snippet in new_content:
+            new_content = new_content.replace(first_snippet, image_markdown)
     
     # Replace categories
     categories_yaml = "categories:\n"

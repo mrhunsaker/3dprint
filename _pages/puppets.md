@@ -78,60 +78,54 @@ Start by assembling the mouth piece. Use the red and black felt sheets to create
 
 Sew the fur body panels together, attaching the mouth piece to the front. Use clips to hold seams in place as you work around curves.
 
-    ![Puppetry workspace with materials and tools laid out on a table]({{ '/assets/images/puppets/puppetry-workspace.jpeg' | relative_url }})
+![Puppetry workspace with materials and tools laid out on a table](/assets/images/puppets/puppetry-workspace.jpeg)
 
 ![Snoof puppet mid-construction showing body taking shape](/assets/images/puppets/snoof-in-progress.jpeg)
+
+![Snoof mouth piece cut from felt]({{ '/assets/images/puppets/snoof-mouth.jpeg' | relative_url }})
+
+![Several snoof mouth pieces in various stages of completion]({{ '/assets/images/puppets/snoof-mouth-few.jpeg' | relative_url }})
+
+![Sewing setup with thread, needles, and clips ready for snoof assembly]({{ '/assets/images/puppets/snoof-sewing-setup.jpeg' | relative_url }})
 
 #### Step 5 — Place the Eyes
 
 Attach the EVA foam eyeballs with safety eye posts from the inside. Position them symmetrically — the photos below show internal placement from two angles.
-    ![Snoof faux fur pieces laid out and ready for cutting]({{ '/assets/images/puppets/snoof-floof.jpeg' | relative_url }})
+
+
 ![Internal view of snoof eye placement from a horizontal angle](/assets/images/puppets/snoof-eye-placement-internal_horizontal.jpeg)
 
 ![Internal view of snoof eye placement from a vertical angle](/assets/images/puppets/snoof-eye-placement-internal-vertical.jpeg)
 
 #### Step 6 — Finished Snoof Puppets
 
-    ![Sewing setup with thread, needles, and clips ready for snoof assembly]({{ '/assets/images/puppets/snoof-sewing-setup.jpeg' | relative_url }})
-
-![Completed green snoof puppet](/assets/images/puppets/purple-snoof.jpeg)
-    ![Snoof mouth piece cut from felt]({{ '/assets/images/puppets/snoof-mouth.jpeg' | relative_url }})
 ![Completed purple snoof puppet with fluffy fur](/assets/images/puppets/purple-snoof.jpeg)
-
-    ![Several snoof mouth pieces in various stages of completion]({{ '/assets/images/puppets/snoof-mouth-few.jpeg' | relative_url }})
 
 ---
 
 ## Glove Puppets
 
 Here is the pattern from Puppet Nerd (I provide it here so you do not have to give a random website your email address):
-    ![Snoof mouth piece partially sewn together]({{ '/assets/images/puppets/snoof-mouth-half-sewn.jpeg' | relative_url }})
 
 ### Materials
-    ![Multiple snoof puppets in various stages of assembly on the work surface]({{ '/assets/images/puppets/snoof-assembly-line.jpeg' | relative_url }})
+
 - **From Amazon:**
     - XSEINO 6 Rolls 12" X 35" 1.4mm Thick Soft Felt Fabric Sheet — 6 Assorted Classics Series Colors Felt Pack for DIY Craft Sewing Squares Nonwoven Patchwork
     - Any appropriately sized buttons for eyes
     - Scissors for cutting thread and trimming felt. 
 - **From Wawak:**
     - Coats and Clark polyester thread (500 yds)
-    ![Snoof puppet mid-construction showing body taking shape]({{ '/assets/images/puppets/snoof-in-progress.jpeg' | relative_url }})
     - Sewing Needles, size 7 (or your preference)
 
-    ![Internal view of snoof eye placement from a horizontal angle]({{ '/assets/images/puppets/snoof-eye-placement-internal_horizontal.jpeg' | relative_url }})
 
 #### Step 1 — Lay Out the Pattern
 
 Print the glove puppet pattern and lay it on your felt sheets. Pin or clip the pattern in place before cutting.
 
 ![Glove puppet pattern pieces laid out on felt fabric](/assets/images/puppets/glove-puppet-layout.jpeg)
-    ![Internal view of snoof eye placement from a vertical angle]({{ '/assets/images/puppets/snoof-eye-placement-internal-vertical.jpeg' | relative_url }})
-#### Step 2 — Cut the Pieces
-
-    ![Completed green snoof puppet]({{ '/assets/images/puppets/purple-snoof.jpeg' | relative_url }})
 
 ![Glove puppet felt pieces after cutting](/assets/images/puppets/glove-puppet-cut.jpeg)
-    ![Completed purple snoof puppet with fluffy fur]({{ '/assets/images/puppets/purple-snoof.jpeg' | relative_url }})
+
 #### Step 3 — Attach Eyes and Features
 Position the button eyes on the puppet face. To make life easy, attach the eyes **PRIOR** to sewing the pattern together. when you sew the puppet together, the eyes will be on the **inside**
 

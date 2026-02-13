@@ -5,8 +5,6 @@ sitemap: false
 permalink: /training-info.html
 ---
 
-# 3D Print Resources
-
 ## 3D Printers with Enclosures/Environmental Control
 
 - *Prices As Of 2026-01-21; Prices subject to change with tariffs and market conditions*

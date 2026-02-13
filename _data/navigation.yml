@@ -11,5 +11,7 @@ main:
     url: /puppets/
   - title: "3D Print Resources & Training"
     url: /training-info.html
+  - title: "OT Training"
+    url: /ot-training/
   - title: "About"
     url: /about/
