@@ -30,7 +30,7 @@ Most of my methods and ideas came from this video, which is worth it for the dad
 
 ## Snoof Puppets
 
-Here is the pattern from Puppet Nerd (I provide it here so you do not have to give a random website your email address):
+Here is the pattern from [Puppet Nerd](https://puppetnerd.com) (I provide it here so you do not have to give a random website your email address):
 [Snoof Puppet Pattern](/assets/files/Make-a-Snoof-Kreutinger-Puppets.pdf)
 
 ### Materials
@@ -92,7 +92,6 @@ Sew the fur body panels together, attaching the mouth piece to the front. Use cl
 
 Attach the EVA foam eyeballs with safety eye posts from the inside. Position them symmetrically — the photos below show internal placement from two angles.
 
-
 ![Internal view of snoof eye placement from a horizontal angle](/assets/images/puppets/snoof-eye-placement-internal_horizontal.jpeg)
 
 ![Internal view of snoof eye placement from a vertical angle](/assets/images/puppets/snoof-eye-placement-internal-vertical.jpeg)
@@ -105,7 +104,8 @@ Attach the EVA foam eyeballs with safety eye posts from the inside. Position the
 
 ## Glove Puppets
 
-Here is the pattern from Puppet Nerd (I provide it here so you do not have to give a random website your email address):
+Here is the pattern from [Puppet Nerd](https://puppetnerd.com) (I provide it here so you do not have to give a random website your email address):
+[Snoof Puppet Pattern](/assets/files/Glove-Puppet-Pattern-Puppet-Nerd.pdf)
 
 ### Materials
 
