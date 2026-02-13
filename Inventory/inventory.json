@@ -392,10 +392,18 @@
       "categories": ["occupational therapy"],
       "tags": ["adaptive-tools", "therapy", "sensory", "assessment", "health"]
     }
+    ,
+    {
+      "prt_number": 57,
+      "title": "9-Hole Peg Test",
+      "sku": "PRT-00057-OT-PT",
+      "categories": ["occupational therapy", "physical therapy"],
+      "tags": ["assessment", "fine-motor", "therapy", "9-hole-peg"]
+    }
   ],
-  "next_prt_number": 57,
+  "next_prt_number": 58,
   "metadata": {
-    "last_updated": "2026-02-11",
-    "total_projects": 56
+    "last_updated": "2026-02-13",
+    "total_projects": 57
   }
 }

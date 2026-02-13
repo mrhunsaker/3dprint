@@ -1,18 +1,25 @@
 ---
-title: $Template
-sku: $SKU
-description: $Short_Description
+title: "9-Hole Peg Test"
+sku: "PRT-00057-OT-PT"
 categories:
-  - accessibility
+  - "occupational therapy"
+  - "physical therapy"
 tags:
-  - braille
+  - "assessment"
+  - "fine-motor"
+  - "therapy"
+  - "9-hole-peg"
+description: "Standard 9-Hole Peg Test for assessing fine motor dexterity."
+stl: "/assets/files/LINK TO 3D PRINT FILE(s).stl"
 header:
-  teaser: /assets/images/prints/$Photo
+  teaser: "/assets/images/prints/9-hole-peg-test.jpg"
 ---
 
-![$Photo_Title](/assets/images/prints/$Photo){: .full style="max-width: 600px;"}
+![]( /assets/images/prints/9-hole-peg-test.jpg){: .full style="max-width: 600px;"}
 
-$Long_Description
+The 9-Hole Peg Test is a timed assessment of fine motor dexterity commonly used by occupational and physical therapists to evaluate finger dexterity and hand-eye coordination. The test requires a small board or tray and nine pegs; the participant places and then removes the pegs as quickly as possible while timing is recorded.
+
+This printable includes the tray and peg models suitable for classroom or clinic use. Adjust print settings for durability; consider PETG or ABS for frequent clinical use.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>
@@ -52,9 +59,8 @@ const itemName = "{{ page.title | uri_escape }}";
 
 ## Leave a Comment
 
-Note, I use [Remarkbox](https://www.remarkbox.com/) for comments to prevent Disqus from showing ads or other methods requiring a GitHub login for participation in any discussions. Although you are asked for you email, there is no need to verify it through remarkbox in order to leave a comment. Verification is just so you can track discussions, etc. without the system treating you as a new person every time.  
+Note, I use [Remarkbox](https://www.remarkbox.com/) for comments to prevent Disqus from showing ads or other methods requiring a GitHub login for participation in any discussions.
 
-<!-- Remarkbox - Your readers want to communicate with you -->
 <div id="remarkbox-div">
     <noscript>
         <iframe id=remarkbox-iframe src="https://my.remarkbox.com/embed?nojs=true&mode=light" style="height:600px;width:100%;border:none!important" tabindex=0></iframe>
@@ -67,7 +73,6 @@ Note, I use [Remarkbox](https://www.remarkbox.com/) for comments to prevent Disq
     var thread_title = window.document.title;
     var thread_fragment = window.location.hash;
 
-    // rb owner was here.
     var rb_src = "https://my.remarkbox.com/embed" +
             "?rb_owner_key=" + rb_owner_key +
             "&thread_title=" + encodeURI(thread_title) +
