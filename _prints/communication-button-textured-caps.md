@@ -1,16 +1,18 @@
 ---
-title: $Template
+title: Communication Button Textured Caps
 sku: $SKU
 description: $Short_Description
 categories:
-  - accessibility
+  - occupational therapy
+  - speech language pathology
+  - visual impairments
 tags:
   - braille
 header:
-  teaser: /assets/images/prints/$Photo
+  teaser: /assets/images/prints/communication-button-textured-caps.jpeg
 ---
 
-![$Photo_Title](/assets/images/prints/$Photo){: .full style="max-width: 600px;"}
+![Communication Button Textured Caps](/assets/images/prints/communication-button-textured-caps.jpeg){: .full style="max-width: 600px;"}
 
 $Long_Description
 

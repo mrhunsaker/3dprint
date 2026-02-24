@@ -1,16 +1,19 @@
 ---
-title: $Template
+title: Slant Board Clipboard
 sku: $SKU
 description: $Short_Description
 categories:
-  - accessibility
+  - occupational therapy
+  - visual impairments
 tags:
   - braille
 header:
-  teaser: /assets/images/prints/$Photo
+  teaser: /assets/images/prints/slant-board-clipboard.jpeg
 ---
 
-![$Photo_Title](/assets/images/prints/$Photo){: .full style="max-width: 600px;"}
+![Slant Board Clipboard](/assets/images/prints/slant-board-clipboard.jpeg){: .full style="max-width: 600px;"}
+![Slant Board Clipboard 2](/assets/images/prints/slant-board-clipboard-2.jpeg){: .full style="max-width: 600px;"}
+![Slant Board Clipboard 3](/assets/images/prints/slant-board-clipboard-3.jpeg){: .full style="max-width: 600px;"}
 
 $Long_Description
 
