@@ -15,23 +15,19 @@
     "inventory_file": "Inventory/inventory.json"
   },
   "allowed_categories": [
-    "visual impairments",
     "occupational therapy",
-    "physical therapy",
     "speech language pathology",
-    "orientation and mobility",
+    "visual impairments",
     "miscellaneous"
   ],
   "category_sku_suffixes": {
-    "visual impairments": "-VIS",
     "occupational therapy": "-OT",
-    "physical therapy": "-PT",
     "speech language pathology": "-SLP",
-    "orientation and mobility": "-OM",
+    "visual impairments": "-VIS",
     "miscellaneous": "-MISC"
   },
   "category_rules": {
-    "miscellaneous": "Can only be used if no other categories are applied. If miscellaneous is selected, it must be the only category."
+    "note": "Only these four categories are permitted. Multiple categories may be assigned (maximum 4). 'miscellaneous' may only be used if no other category applies and must be the only category when selected."
   },
   "sku_format": {
     "description": "SKU format is PRT-XXXXX-SUFFIXES where XXXXX is 5-digit number",
@@ -50,7 +46,7 @@
     "Read next_prt_number from Inventory/inventory.json",
     "Open Staging/<project_name>/template.md",
     "Collect metadata: title, short description, long description, topic/context, photo file(s), photo title(s).",
-    "Determine applicable categories based on topic/context. Multiple categories allowed (max 5). Only use allowed categories. IMPORTANT: miscellaneous can only be used if no other categories apply.",
+    "Determine applicable categories based on topic/context. Multiple categories allowed (maximum 4). Only use the allowed categories: occupational therapy, speech language pathology, visual impairments, miscellaneous. IMPORTANT: 'miscellaneous' can only be used if no other categories apply and must be the only category when selected.",
     "Generate SKU: PRT-XXXXX-SUFFIXES where XXXXX is next_prt_number (zero-padded to 5 digits), and SUFFIXES are category codes in order (e.g., PRT-00052-OT-VIS)",
     "Generate tags based on topic and product type (e.g., braille, tactile, adaptive, mobility, therapy, etc.).",
     "Rename all image files in Staging/<project_name>/ to match the folder name. If there is only 1 image, rename it to <folder-name>.<ext>. If there are multiple images, rename them to <folder-name>.ext, <folder-name>-2.<ext>, <folder-name>-3.<ext>, etc. Preserve the original file extension (e.g., .jpeg, .jpg, .png).",
