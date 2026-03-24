@@ -391,19 +391,39 @@
       "sku": "PRT-00056-OT",
       "categories": ["occupational therapy"],
       "tags": ["adaptive-tools", "therapy", "sensory", "assessment", "health"]
-    }
-    ,
+    },
     {
       "prt_number": 57,
       "title": "9-Hole Peg Test",
       "sku": "PRT-00057-OT-PT",
       "categories": ["occupational therapy", "physical therapy"],
       "tags": ["assessment", "fine-motor", "therapy", "9-hole-peg"]
+    },
+    {
+      "prt_number": 58,
+      "title": "MMC60",
+      "sku": "PRT-00058-OT-SLP",
+      "categories": ["occupational therapy", "speech language pathology"],
+      "tags": ["adaptive-tools", "assistive-technology", "switch-access", "aac", "therapy"]
+    },
+    {
+      "prt_number": 59,
+      "title": "Rocker Switch",
+      "sku": "PRT-00059-OT-SLP",
+      "categories": ["occupational therapy", "speech language pathology"],
+      "tags": ["adaptive-tools", "assistive-technology", "switch-access", "aac", "motor-access"]
+    },
+    {
+      "prt_number": 60,
+      "title": "Interact Switch",
+      "sku": "PRT-00060-OT-SLP",
+      "categories": ["occupational therapy", "speech language pathology"],
+      "tags": ["adaptive-tools", "assistive-technology", "switch-access", "aac", "therapy"]
     }
   ],
-  "next_prt_number": 58,
+  "next_prt_number": 61,
   "metadata": {
-    "last_updated": "2026-02-13",
-    "total_projects": 57
+    "last_updated": "2026-03-24",
+    "total_projects": 60
   }
 }
