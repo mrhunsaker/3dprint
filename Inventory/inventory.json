@@ -419,11 +419,32 @@
       "sku": "PRT-00060-OT-SLP",
       "categories": ["occupational therapy", "speech language pathology"],
       "tags": ["adaptive-tools", "assistive-technology", "switch-access", "aac", "therapy"]
+    },
+    {
+      "prt_number": 61,
+      "title": "Light Touch Switch",
+      "sku": "PRT-00061-OT-SLP",
+      "categories": ["occupational therapy", "speech language pathology"],
+      "tags": ["adaptive-tools", "assistive-technology", "switch-access", "aac", "low-force"]
+    },
+    {
+      "prt_number": 62,
+      "title": "Raindrop Switch",
+      "sku": "PRT-00062-OT-SLP",
+      "categories": ["occupational therapy", "speech language pathology"],
+      "tags": ["adaptive-tools", "assistive-technology", "switch-access", "aac", "motor-access"]
+    },
+    {
+      "prt_number": 63,
+      "title": "Unibody Switch",
+      "sku": "PRT-00063-OT-SLP",
+      "categories": ["occupational therapy", "speech language pathology"],
+      "tags": ["adaptive-tools", "assistive-technology", "switch-access", "aac", "therapy"]
     }
   ],
-  "next_prt_number": 61,
+  "next_prt_number": 64,
   "metadata": {
-    "last_updated": "2026-03-24",
-    "total_projects": 60
+    "last_updated": "2026-04-10",
+    "total_projects": 63
   }
 }
