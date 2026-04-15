@@ -440,11 +440,25 @@
       "sku": "PRT-00063-OT-SLP",
       "categories": ["occupational therapy", "speech language pathology"],
       "tags": ["adaptive-tools", "assistive-technology", "switch-access", "aac", "therapy"]
+    },
+    {
+      "prt_number": 64,
+      "title": "Tap+",
+      "sku": "PRT-00064-OT-SLP",
+      "categories": ["occupational therapy", "speech language pathology"],
+      "tags": ["adaptive-tools", "assistive-technology", "switch-access", "aac", "bluetooth", "microbit"]
+    },
+    {
+      "prt_number": 65,
+      "title": "Volksswitch v4",
+      "sku": "PRT-00065-OT-SLP",
+      "categories": ["occupational therapy", "speech language pathology"],
+      "tags": ["adaptive-tools", "assistive-technology", "switch-access", "aac", "open-source", "low-cost"]
     }
   ],
-  "next_prt_number": 64,
+  "next_prt_number": 66,
   "metadata": {
-    "last_updated": "2026-04-10",
-    "total_projects": 63
+    "last_updated": "2026-04-15",
+    "total_projects": 65
   }
 }
