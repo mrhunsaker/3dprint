@@ -1,7 +1,7 @@
 ---
 title: Iphone Screen Tactile Models
-sku: $SKU
-description: $Short_Description
+sku: "PRT-00066-VIS"
+description: "Tactile iPhone screen model set for teaching screen layout and navigation"
 categories:
   - visual impairments
 tags:
@@ -16,7 +16,9 @@ header:
 ![Iphone Screen Tactile Models 4](/assets/images/prints/iphone-screen-tactile-models-4.jpeg){: .full style="max-width: 600px;"}
 ![Iphone Screen Tactile Models 5](/assets/images/prints/iphone-screen-tactile-models-5.jpeg){: .full style="max-width: 600px;"}
 
-$Long_Description
+This tactile iPhone screen model set provides raised, touch-readable layouts of common screen elements to support instruction for students who are blind or have low vision. The models can be used to introduce icon placement, gesture concepts, and orientation to app structure before using a live device.
+
+The set is useful in assistive technology lessons, orientation sessions, and classroom practice where learners need repeated hands-on exposure to screen organization. Physical references like these can make verbal screen reader instructions easier to understand and remember.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

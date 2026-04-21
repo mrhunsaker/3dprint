@@ -1,7 +1,7 @@
 ---
 title: Slant Board Clipboard
-sku: $SKU
-description: $Short_Description
+sku: "PRT-00068-OT-VIS"
+description: "Angled clipboard slant board that supports writing posture and visual access"
 categories:
   - occupational therapy
   - visual impairments
@@ -15,7 +15,9 @@ header:
 ![Slant Board Clipboard 2](/assets/images/prints/slant-board-clipboard-2.jpeg){: .full style="max-width: 600px;"}
 ![Slant Board Clipboard 3](/assets/images/prints/slant-board-clipboard-3.jpeg){: .full style="max-width: 600px;"}
 
-$Long_Description
+This slant board clipboard creates an angled writing surface that promotes better wrist position, paper stability, and ergonomic posture during handwriting and drawing tasks. It can reduce strain and improve control for students and clients working on fine motor and written output goals.
+
+The raised angle can also improve visual access by bringing work closer to eye level, which is helpful for some low-vision users. It is suitable for therapy sessions, classroom workstations, and home practice.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>

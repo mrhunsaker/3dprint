@@ -1,7 +1,7 @@
 ---
 title: Communication Button Textured Caps
-sku: $SKU
-description: $Short_Description
+sku: "PRT-00067-OT-SLP-VIS"
+description: "Textured caps for communication buttons to improve tactile identification and access"
 categories:
   - occupational therapy
   - speech language pathology
@@ -14,7 +14,9 @@ header:
 
 ![Communication Button Textured Caps](/assets/images/prints/communication-button-textured-caps.jpeg){: .full style="max-width: 600px;"}
 
-$Long_Description
+These textured caps are designed to fit communication buttons and provide distinct tactile patterns that help users quickly identify button functions by touch. They support individuals who benefit from multisensory input, including learners with visual impairments, motor planning needs, or emerging AAC skills.
+
+In therapy and classroom settings, the caps can improve consistency during routines, choice-making, and cause-and-effect activities by reducing visual dependence and making each button easier to differentiate.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>
