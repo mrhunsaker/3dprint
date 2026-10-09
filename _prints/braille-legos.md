@@ -9,10 +9,12 @@ tags:
   - toys
   - education
 header:
-  teaser: /assets/images/prints/BrailleLegos.jpeg
+  teaser: /assets/images/prints/Braille_Legos.jpeg
 stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 ---
 
+![Braille Legos](/assets/images/prints/Braille_Legos.jpeg){: .full style="max-width: 600px;"}
+![Braille Legos](/assets/images/prints/Braille_Legos-2.jpeg){: .full style="max-width: 600px;"}
 ![Braille Legos](/assets/images/prints/BrailleLegos.jpeg){: .full style="max-width: 600px;"}
 
 3D-printed building blocks featuring embossed braille characters that are fully compatible with official LEGO sets. Each brick represents a braille letter, number, or symbol, allowing students with visual impairments to practice braille literacy through creative, open-ended play. By combining braille learning with the familiar snap-together building experience, these bricks make literacy practice engaging and motivating for learners of all ages.

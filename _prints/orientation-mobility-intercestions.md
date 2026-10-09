@@ -11,9 +11,26 @@ tags:
   - tactile
   - training
 header:
-  teaser: /assets/images/prints/Orientation-Mobility-Intersections.jpeg
+  teaser: /assets/images/prints/Intersections.jpg
 ---
 
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-2.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-3.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-4.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-5.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-6.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-7.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-8.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-9.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-10.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-11.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-12.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-13.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-14.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-15.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-16.jpg){: .full style="max-width: 600px;"}
+![Orientation and Mobility Intersections](/assets/images/prints/Intersections-17.jpeg){: .full style="max-width: 600px;"}
 ![Orientation-Mobility-Intersections.jpeg_Title](/assets/images/prints/Orientation-Mobility-Intersections.jpeg){: .full style="max-width: 600px;"}
 
 A 3D tactile model of street intersections used in Orientation and Mobility (O&M) training for students with visual impairments. The model includes raised curbs, crosswalks, traffic lanes, and intersection geometry, allowing learners to build a mental map of different intersection types before encountering them in real-world travel. Supports instruction on traffic patterns, safe crossing strategies, and spatial orientation concepts.

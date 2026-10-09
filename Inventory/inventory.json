@@ -454,11 +454,39 @@
       "sku": "PRT-00065-OT-SLP",
       "categories": ["occupational therapy", "speech language pathology"],
       "tags": ["adaptive-tools", "assistive-technology", "switch-access", "aac", "open-source", "low-cost"]
+    },
+    {
+      "prt_number": 66,
+      "title": "BT Switch",
+      "sku": "PRT-00066-OT-SLP",
+      "categories": ["occupational therapy", "speech language pathology"],
+      "tags": ["adaptive-tools", "assistive-technology", "switch-access", "bluetooth", "accessibility"]
+    },
+    {
+      "prt_number": 67,
+      "title": "Nudge Switch",
+      "sku": "PRT-00067-OT-SLP",
+      "categories": ["occupational therapy", "speech language pathology"],
+      "tags": ["adaptive-tools", "assistive-technology", "switch-access", "accessibility"]
+    },
+    {
+      "prt_number": 68,
+      "title": "RB Switch",
+      "sku": "PRT-00068-OT-SLP",
+      "categories": ["occupational therapy", "speech language pathology"],
+      "tags": ["adaptive-tools", "assistive-technology", "switch-access", "bluetooth", "aac"]
+    },
+    {
+      "prt_number": 69,
+      "title": "Textured Letter Tiles",
+      "sku": "PRT-00069-VIS",
+      "categories": ["visual impairments"],
+      "tags": ["tactile", "literacy", "letters", "numbers", "education"]
     }
   ],
-  "next_prt_number": 66,
+  "next_prt_number": 70,
   "metadata": {
-    "last_updated": "2026-04-15",
-    "total_projects": 65
+    "last_updated": "2026-10-08",
+    "total_projects": 69
   }
 }

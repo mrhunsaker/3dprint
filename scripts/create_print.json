@@ -56,6 +56,7 @@
     "Move all renamed image files from Staging/<project_name>/ to assets/images/prints/.",
     "Update Inventory/inventory.json with new project entry and increment next_prt_number.",
     "Ensure header teaser uses the first image file path.",
+    "Use README.md and other non `template.md` files as needed for additional context or instructions for long_description.",
     "Clean up staging folder (remove template.md and images)."
   ],
   "output": {

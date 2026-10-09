@@ -1,18 +1,26 @@
 ---
-title: $Template
-sku: $SKU
-description: $Short_Description
+title: "RB Switch"
+sku: "PRT-00068-OT-SLP"
+description: "Three-button Bluetooth Low Energy switch for accessible device control"
 categories:
-  - accessibility
+  - occupational therapy
+  - speech language pathology
 tags:
-  - braille
+  - adaptive-tools
+  - assistive-technology
+  - switch-access
+  - bluetooth
+  - aac
 header:
-  teaser: /assets/images/prints/$Photo
+  teaser: /assets/images/prints/RB_SWITCH.jpeg
+stl: /assets/files/LINK TO 3D PRINT FILE(s).stl
 ---
 
-![$Photo_Title](/assets/images/prints/$Photo){: .full style="max-width: 600px;"}
+![RB Switch](/assets/images/prints/RB_SWITCH.jpeg){: .full style="max-width: 600px;"}
+![RB Switch](/assets/images/prints/RB_SWITCH-2.jpeg){: .full style="max-width: 600px;"}
+![RB Switch](/assets/images/prints/RB_SWITCH-3.jpg){: .full style="max-width: 600px;"}
 
-$Long_Description
+A three-button Bluetooth Low Energy accessibility switch that presents to a computer, tablet, or phone as a standard Bluetooth keyboard. Its left-arrow, enter, and right-arrow buttons can support switch-scanning and other keyboard-based access workflows. The project documentation includes pairing and setup guidance for iOS/iPadOS and Android.
 
 <div class="notice--primary">
   <strong>Request this Print</strong><br>
