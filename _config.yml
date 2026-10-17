@@ -2,7 +2,7 @@
 # Site
 title: "DSD Related Services 3D Print Catalog"
 description: "Static catalog of ready-to-print 3D models with request workflow"
-email: ryhunsaker@dsdsmail.net
+email: ryhunsaker@dsdmail.net
 # GitHub Pages site root
 url: "https://mrhunsaker.github.io"
 # Repository base path (GitHub Pages project site)
@@ -93,7 +93,7 @@ author:
           url: "mailto:ryhunsaker@dsdmail.net"
         - label: "3D Print Catalog"
           icon: "fas fa-fw fa-link"
-          url: "https://mrhunsaker.github.io/3dprints"
+          url: "https://mrhunsaker.github.io/3dprint"
         - label: "TVI Resources Website"
           icon: "fas fa-fw fa-link"
           url: "https://tviresources.github.io"
